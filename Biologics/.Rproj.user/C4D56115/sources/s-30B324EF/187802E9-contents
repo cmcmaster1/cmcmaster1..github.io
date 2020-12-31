@@ -1,5 +1,3 @@
-library(tidyverse)
-
 biologics_list <- tibble(drug = c("tocilizumab", "infliximab", "adalimumab",
                                   "etanercept", "abatacept", "rituximab",
                                   "baricitinib", "tofacitinib", "upadacitinib",
@@ -22,7 +20,7 @@ pbs_api <- function(table, format = "csv", header = "true", download = "true", .
 
 schedules <- pbs_api("SCHEDULE")
 res <- pbs_api("ITEM_RESTRICTION_RLTD") %>% 
-  filter(str_detect(CONDITION_TYPE_CODE, regex("rheumatoid|psoriatic|arteritis|ankylosing|spondylo", ignore_case = TRUE)))
+  filter(str_detect(CONDITION_TYPE_CODE, regex("rheumatoid|psoriatic|arteritis|ankylosing|spondylo|granulomatosis|polyangiitis", ignore_case = TRUE)))
 
 res <- pbs_api("RESTRICTION_TEXT") %>% 
   inner_join(res, by = c("RES_CODE", "SCHEDULE_CODE"))
@@ -44,32 +42,25 @@ full_data <- biologics_list_expanded %>%
                                str_detect(CONDITION_TYPE_CODE, regex("ankylosing", ignore_case = TRUE)) ~ "Ankylosing Spondylitis",
                                str_detect(CONDITION_TYPE_CODE, regex("spondylo", ignore_case = TRUE)) ~ "Non-radiographic Axial SpA",
                                str_detect(CONDITION_TYPE_CODE, regex("arteritis", ignore_case = TRUE)) ~ "Giant Cell Arteritis",
+                               str_detect(CONDITION_TYPE_CODE, regex("granulomatosis", ignore_case = TRUE)) ~ "GPA",
+                               str_detect(CONDITION_TYPE_CODE, regex("microscopic", ignore_case = TRUE)) ~ "MPA",
                                TRUE ~ CONDITION_TYPE_CODE),
+         STREAMLINE = if_else(BENEFIT_TYPE_CODE == "S", STREAMLINE, NULL),
          BENEFIT_TYPE = case_when(BENEFIT_TYPE_CODE == "U" ~ "unrestricted",
                                   BENEFIT_TYPE_CODE == "R" ~ "restricted",
                                   BENEFIT_TYPE_CODE == "A" ~ "authority required",
                                   BENEFIT_TYPE_CODE == "S" ~ "streamlined"),
          DOSE = str_extract(LI_FORM, "[:digit:]+ (?=mg)")) %>% 
   mutate(init = str_locate(LI_HTML_TEXT, regex("initial", ignore_case = TRUE))[,1],
-         cont = str_locate(LI_HTML_TEXT, regex("continuing", ignore_case = TRUE))[,1]) %>% 
+         cont = str_locate(LI_HTML_TEXT, regex("continuing", ignore_case = TRUE))[,1],
+         ind = CONDITION %in% c("GPA", "MPA") & str_detect(LI_HTML_TEXT, regex("(?<!-)induction", ignore_case = TRUE)),
+         reind = CONDITION %in% c("GPA", "MPA") & str_detect(LI_HTML_TEXT, regex("re-induction", ignore_case = TRUE))) %>% 
   replace_na(list(init = 10000, cont = 10000)) %>% 
-  mutate(PHASE = if_else(init < cont, "Initial", "Continuing")) %>% 
+  mutate(PHASE = case_when(init < cont ~ "Initial",
+                           ind ~ "Induction",
+                           reind ~ "Re-induction",
+                           TRUE ~ "Continuing")) %>% 
   select(-init, -cont)
 
 write_rds(full_data, "data/full_data.RDS")
-
-
-full_data %>% 
-  mutate(PHASE = case_when(str_detect(LI_HTML_TEXT, regex("initial", ignore_case = TRUE)) ~ "Initial", 
-                           str_detect(LI_HTML_TEXT, regex("continuing", ignore_case = TRUE)) ~ "Continuing"))
-
-full_data %>% 
-  mutate(init = case_when(str_detect(LI_HTML_TEXT, regex("initial", ignore_case = TRUE)) ~ 1, TRUE ~ 0),
-         cont = case_when(str_detect(LI_HTML_TEXT, regex("continuing", ignore_case = TRUE)) ~ 1, TRUE ~ 0)) %>% 
-  filter(init == cont) %>% 
-  View()
-
-
-full_data %>% 
-   %>% 
   

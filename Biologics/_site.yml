@@ -6,6 +6,9 @@ output_dir: "."
 navbar:
   logo:
     image: images/logo_white.png
+  left:
+    - text: "Home"
+      href: index.html
 output: 
   distill::distill_article:
     toc: true

@@ -17,7 +17,7 @@ library(tidyverse)
 library(rmarkdown)
 library(knitr)
 
-source("create_data.R")
+# source("create_data.R")
 # Learn more about creating websites with Distill at:
 # https://rstudio.github.io/distill/website.html
 
@@ -34,9 +34,10 @@ table_data <- full_data %>%
   distinct()
 ```
 
-```{r, layout="l-page"}
+```{r, layout="l-screen"}
 DT::datatable(table_data, 
-            filter = 'top', 
+            filter = list(position = 'top', clear = FALSE, plain = TRUE),
+            rownames = FALSE,
             options = list(pageLength = 20))
 ```
 

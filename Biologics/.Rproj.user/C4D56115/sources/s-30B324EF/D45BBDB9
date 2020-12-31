@@ -1,9 +1,9 @@
 {
     "id": "D45BBDB9",
-    "path": "D:/Websites/github/Biologics/_site.yml",
+    "path": "D:/Websites/github/cmcmaster1.github.io/Biologics/_site.yml",
     "project_path": "_site.yml",
     "type": "yaml",
-    "hash": "1807800048",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1609383134706.0,
@@ -16,11 +16,11 @@
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1609386297,
+    "lastKnownWriteTime": 1609390216,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1609386297632,
+    "last_content_update": 1609390216215,
     "read_only": false,
     "read_only_alternatives": []
 }

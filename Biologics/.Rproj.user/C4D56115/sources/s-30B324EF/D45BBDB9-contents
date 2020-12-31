@@ -2,7 +2,7 @@ name: "Biologics"
 title: "Rheumatology PBS"
 description: |
   Information about PBS prescription of biologics for rheumatological conditions.
-output_dir: "docs"
+output_dir: "."
 navbar:
   logo:
     image: images/logo_white.png

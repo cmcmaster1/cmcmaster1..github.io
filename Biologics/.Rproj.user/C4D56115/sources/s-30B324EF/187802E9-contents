@@ -55,11 +55,13 @@ full_data <- biologics_list_expanded %>%
          init = str_locate(LI_HTML_TEXT, regex("initial", ignore_case = TRUE))[,1],
          cont = str_locate(LI_HTML_TEXT, regex("continuing", ignore_case = TRUE))[,1],
          ind = CONDITION %in% c("GPA", "MPA") & str_detect(LI_HTML_TEXT, regex("(?<!-)induction", ignore_case = TRUE)),
-         reind = CONDITION %in% c("GPA", "MPA") & str_detect(LI_HTML_TEXT, regex("re-induction", ignore_case = TRUE))) %>% 
+         reind = CONDITION %in% c("GPA", "MPA") & str_detect(LI_HTML_TEXT, regex("re-induction", ignore_case = TRUE)),
+         grand = str_detect(LI_HTML_TEXT, regex("Grandfather", ignore_case = TRUE))) %>% 
   replace_na(list(init = 10000, cont = 10000)) %>% 
-  mutate(PHASE = case_when(init < cont ~ "Initial",
-                           ind ~ "Initial",
+  mutate(PHASE = case_when(ind ~ "Initial",
+                           grand ~ "Grandfathered",
                            reind ~ "Re-induction",
+                           init < cont ~ "Initial",
                            TRUE ~ "Continuing")) %>% 
   select(-init, -cont)
 

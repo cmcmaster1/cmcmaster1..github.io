@@ -43,8 +43,9 @@ DT::datatable(table_data,
                 buttons = list("searchPanes"),
                 language = list(searchPanes = list(collapse = "Filter Rows")),
                 columnDefs = list(
-                  list(searchPanes = list(show = FALSE), targets = 3:10),
-                  list(searchPanes = list(controls = FALSE), targets = 0:3))),
+                  list(searchPanes = list(show = FALSE), targets = 4:10)
+                  )
+                ),
               extensions = c("SearchPanes", "Select", "Buttons"),
               selection = 'none')
 ```

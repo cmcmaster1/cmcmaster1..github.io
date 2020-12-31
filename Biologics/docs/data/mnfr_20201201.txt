@@ -1,0 +1,208 @@
+mnfr-code!mnfr-name!mnfr-address!mnfr-telephone!mnfr-fax
+AB!Abbott Australasia Pty Ltd!Sir Joseph Banks Corporate Park 32-34 Lord Street BOTANY NSW 2019!1800 801 478!
+AE!AFT Pharmaceuticals (AU) Pty Ltd!Suite 301, 113 Wicks Road North Ryde NSW 2113!1800 097 639!
+AF!Alphapharm Pty Ltd!Level 1, 30 The Bond 30-34 Hickson Road Millers Point NSW 2000!1800 274 276!
+AG!Allergan Australia Pty Limited!Level 4, 810 Pacific Highway Gordon NSW 2072!1800 252 224!
+AL!Alphapharm Pty Ltd!Level 1, 30 The Bond 30-34 Hickson Road Millers Point NSW 2000!1800 274 276!
+AN!Amgen Australia Pty Limited!Avaya House Level 7, 123 Epping Road NORTH RYDE NSW 2113!1800 803 638!
+AP!AstraZeneca Pty Ltd!66 Talavera Rd Macquarie Park NSW 2113!02 9978 3500!
+AQ!Alcon Laboratories (Australia) Pty Ltd!54 Waterloo Road Macquarie Park NSW 2113!1800 025 032!
+AS!Aspen Pharmacare Australia Pty Limited!34-36 Chandos Street ST LEONARDS NSW 2065!02 8436 8300!
+AV!sanofi-aventis Australia Pty Ltd!Building D, Talavera Corporate Centre 12-24 Talavera Road Macquarie Park NSW 2113!02 8666 2000!
+BB!Blackmores Limited!20 Jubilee Avenue Warriewood NSW 2102!02 9910 5000!02 9910 5555
+BD!Biogen Australia Pty Ltd!2 Banfield Road Macquarie Park NSW 2113!02 8875 3900!
+BE!Beiersdorf Australia Ltd!4 Khartoum Road North Ryde NSW 2113!02 9888 0977!02 9887 3487
+BG!Sandoz Pty Ltd!54 Waterloo Road Macquarie Park NSW 2113!1800 726 369!
+BN!Bayer Australia Ltd!PO Box 903 PYMBLE NSW 2073!1800 008 757!
+BQ!Bristol-Myers Squibb Australia Pty Ltd!Level 2, 4 Nexus Court Mulgrave VIC 3170!1800 067 567!
+BR!B. Braun Australia Pty Ltd!PO Box 6221 Baulkham Hills Business Centre Baulkham Hills NSW 2153!02 9629 0200!
+BV!BSN medical (Aust.) Pty Ltd!Level 6 211 Wellington Road Mulgrave VIC 3170!1300 68 88 26!
+BX!Baxter Healthcare Pty Limited!1 Baxter Drive Old Toongabbie NSW 2146!1300 789 646!
+BY!Boehringer Ingelheim Pty Ltd!78 Waterloo Road NORTH RYDE NSW 2113!02 8875 8800!
+BZ!Boucher & Muir Pty Ltd!Level 9 76 Berry Street North Sydney NSW 2060!1800 627 680!
+CC!ConvaTec A Division of Bristol-Myers Squibb Australia Pty Ltd!606 Hawthorn Road East Brighton VIC 3187!1800 335 276!
+CF!CNS Pharma Pty Ltd!Level 5, Deutsche Bank Place 126 Phillip Street Sydney NSW 2000!02 8669 1068!
+CH!Apotex Pty Ltd!PO Box 280 NORTHRYDE NSW 1670!02 8877 8333!
+CJ!Celgene Pty Limited!Level 15 60 City Road Southbank VIC 3006!03 9539 5500!
+CR!Pharmacor Pty Limited!Suite 803, Tower A, The Zenith 821 Pacific Highway Chatswood NSW 2067!1300 138 805!
+CS!Seqirus (Australia) Pty Ltd!Tower 1, Level 12, Collins Square 727 Collins Street Melbourne VIC 3008!1800 008 275!
+CT!Coloplast Pty Ltd!33 Gilby Road Mount Waverley VIC 3149!1800 673 317!
+CU!Care Pharmaceuticals Pty Limited!Suite 303, Level 3, 59-75 Grafton Street Bondi Junction NSW 2022!1800 788 870!
+CX!Contact Lens Centre Australia Limited!Unit D6, Hallmarc Business Park Cnr Westall and Centre Roads CLAYTON VIC 3168!03 9543 1811!
+DE!Stallergenes Australia Pty Ltd!Suite 2408, 4 Daydream Street Warriewood NSW 2102!01800 824 166!
+DJ!De Fries Industries Pty Ltd!1-7 Vision Street Dandenong South VIC 3175!03 9706 3600!03 9706 3619
+DO!Fair-Med Healthcare (Australia) Pty Ltd!5/148-152 Spit Road Mosman NSW 2088!02 9960 2760!
+DQ!Church & Dwight (Australia) Pty Ltd!Unit 1/108 Old Pittwater Road Brookvale NSW 2100!1800 222 099!
+DV!Medical Developments International Limited!4 Caribbean Drive Scoresby VIC 3179!03 9547 1888!
+DX!Ascensia Diabetes Care Australia Pty Ltd!Suite 30 215-219 George Street Liverpool NSW 2170!1800 289 312!
+DZ!Medsurge Healthcare Pty Ltd!Unit 2, 6-7 Gilda Court Mulgrave VIC 3170!300788 261!
+EA!Amneal Pharmaceuticals Pty Ltd!12 River Street South Yarra VIC 3141!1300 729 661!
+ED!Amneal Pharmaceuticals Pty Ltd!12 River Street South Yarra VIC 3141!1300 729 661!
+EF!Amneal Pharmaceuticals Pty Ltd!12 River Street South Yarra VIC 3141!1300 729 661!
+EI!Eisai Australia Pty Ltd!Level 2, 437 St Kilda Road Melbourne VIC 3004!03 9832 9100!
+EJ!Encapsulate Pharma Pty Ltd!34 Thurso St Malvern East VIC 3145!03 9568 4975!
+EL!Eli Lilly Australia Pty Ltd!112 WHARF ROAD WEST RYDE NSW 2114!02 9325 4444!
+EO!Ego Pharmaceuticals Proprietary Limited!21-31 Malcolm Road Braeside VIC 3195!03 9587 1088!
+ER!Eris Pharmaceuticals (Australia) Pty Ltd!5/148-152 Spit Road Mosman NSW 2088!02 9960 2760!
+EU!Chiesi Australia Pty Ltd!Suite 3/ 22 Gillman Street Hawthorn East VIC 3121!03 9077 4486!03 8672 0792
+EV!Teva Pharma Australia Pty Limited!Level 2, 37 Epping Road Macquarie Park NSW 2113!1800 288 382!
+EW!Celltrion Healthcare Australia Pty Ltd!Suite 205 1 York Street Sydney NSW 2000!02 8377 9000!
+FB!Pierre Fabre Australia Pty Ltd!Suite 901, 1 Elizabeth Plaza North Sydney NSW 2060!02 9195 6200!02 9195 6222
+FD!Dr Falk Pharma Australia Pty Ltd!Suite 10.01 815 Pacific Highway Chatswood NSW 2067!0432 509 209!
+FF!Phebra Pty Ltd!19 Orion Road Lane Cove West NSW 2066!1 800 720 020!
+FG!Phebra Pty Ltd!19 Orion Road Lane Cove West NSW 2066!1 800 720 020!
+FI!Boehringer Ingelheim Pty Ltd!78 Waterloo Road NORTH RYDE NSW 2113!02 8875 8800!
+FK!A. Menarini Australia Pty Limited!Level 8, 67 Albert Avenue Chatswood NSW 2067!1800 642 646!
+FO!For Benefit Medicines Pty Ltd!27 Kirrawee Road North Gosford NSW 2250!1300 656 256!
+FP!Ferring Pharmaceuticals Pty Limited!Suite 2, Level 1, Building 1 Pymble Corporate Centre PYMBLE NSW 2073!1800 337 746!02 9497 2399
+FX!Gedeon Richter Australia Pty Ltd!33-34/23 Narabang Way Belrose Sydney NSW 2985!02 8998 1854!
+FZ!Pfizer Australia Pty Ltd!Levels 15-18, 151 Clarence Street Sydney NSW 2000!02 9850 3333!
+GA!Galderma Australia Pty Ltd!Suite 4, 13B Narabang Way Belrose NSW 2085!02 9479 0600!
+GC!GlaxoSmithKline Australia Pty Ltd!Level 3, 436 Johnston Street Abbotsford VIC 3067!03 9413 7200!
+GH!Amdipharm Mercury (Australia) Pty Limited!Level 9 76 Berry Street North Sydney NSW 2060!1800 627 680!
+GI!Gilead Sciences Pty Limited!Level 6, 417 St Kilda Road Melbourne VIC 3004!03 9272 4400!
+GK!GlaxoSmithKline Australia Pty Ltd!Level 3, 436 Johnston Street Abbotsford VIC 3067!03 9413 7200!
+GN!Actavis Pty Ltd!37 Epping Road Macquarie Park NSW 2113!1800 288 382!
+GO!Mylan Health Pty Ltd!Level 1 30 The Bond Millers Point NSW 2000!02 9298 3999!
+GQ!Generic Health Pty Ltd!Suite 2, Level 2 19-23 Prospect Street Box Hill VIC 3128!03 9809 7900!03 9809 7999
+GT!Mylan Health Pty Ltd!Level 1 30 The Bond Millers Point NSW 2000!02 9298 3999!
+GX!Apotex Pty Ltd!PO Box 280 NORTHRYDE NSW 1670!02 8877 8333!
+GZ!sanofi-aventis Australia Pty Ltd!Building D, Talavera Corporate Centre 12-24 Talavera Road Macquarie Park NSW 2113!02 8666 2000!
+HB!Besins Healthcare Australia Pty Ltd!Level 2, Tower 1 495 Victoria Avenue Chatswood NSW 2067!02 9418 8343!
+HN!Horizon Hospital Healthcare Pty Ltd!PO Box 175 Carnegie VIC 3163!03 9568 6102!
+HQ!Generic Health Pty Ltd!Suite 2, Level 2 19-23 Prospect Street Box Hill VIC 3128!03 9809 7900!03 9809 7999
+HR!Paul Hartmann Pty Ltd!27-28/11-21 Underwood Road Homebush NSW 2140!1800 805 839!
+HX!Sandoz Pty Ltd!54 Waterloo Road Macquarie Park NSW 2113!1800 726 369!
+IB!Apotex Pty Ltd!PO Box 280 NORTHRYDE NSW 1670!02 8877 8333!
+IG!Sigma Company Limited!3 Myer Place ROWVILLE VIC 3178!03 9215 9215!
+IJ!I-Care Pharma Distributors Pty Ltd!Unit 3/ 92A Mona Vale Road Warriewood NSW 2102!02 8061 4641!
+IL!iNova Pharmaceuticals (Australia) Pty Limited!Level 10, 12 Help Street CHATSWOOD NSW 2067!1800 630 056!
+IM!iNova Pharmaceuticals (Australia) Pty Limited!Level 10, 12 Help Street CHATSWOOD NSW 2067!1800 630 056!
+IO!BioMarin Pharmaceutical Australia Pty Ltd!119 Willoughby Road CROWS NEST NSW 2065!02 9967 8662!
+IQ!Alcon Laboratories (Australia) Pty Ltd!54 Waterloo Road Macquarie Park NSW 2113!1800 025 032!
+IR!Indivior Pty Ltd!POD B.02 LEVEL 3 MACQUARIE PARK NSW 2113!02 9025 0200!
+IS!Ipsen Pty Ltd!Level 2, Building 4 Brandon Office Park GLEN WAVERLEY VIC 3150!03 8544 8100!
+IX!Clinect Pty Ltd!PO BOX 7300 Melbourne VIC 3004!1800 899 005!
+IY!Clinect Pty Ltd!PO BOX 7300 Melbourne VIC 3004!1800 899 005!
+JB!Apotex Pty Ltd!PO Box 280 NORTHRYDE NSW 1670!02 8877 8333!
+JC!Janssen-Cilag Pty Ltd!1-5 Khartoum Road Macquarie Park NSW 2113!01800 226 334!
+JJ!Johnson & Johnson Medical Pty Ltd!1-5 Khartoum Road North Ryde NSW 2113!02 9815 4276!
+JO!Juno Pharmaceuticals Pty Ltd!42 Kelso Street Cremorne VIC 3121!03 8888 1288!
+JT!Johnson & Johnson Pacific Pty Limited!45 Jones Street Ultimo NSW 2007!1800 029 979!
+JU!Juno Pharmaceuticals Pty Ltd!42 Kelso Street Cremorne VIC 3121!03 8888 1288!
+JX!Juno Pharmaceuticals Pty Ltd!42 Kelso Street Cremorne VIC 3121!03 8888 1288!
+KE!Kendall Australasia Pty Ltd!22 Giffnock Avenue North Ryde NSW 2113!1800 252 467!
+KI!KCI Medical Australia Pty Ltd!Level 7, 15 Orion Road Lane Cove West NSW 2066!1800 815 529!02 9422 4344
+KP!Eli Lilly Australia Pty Ltd!112 WHARF ROAD WEST RYDE NSW 2114!02 9325 4444!
+KY!Key Pharmaceuticals Pty Ltd!12 Lyon Park Road MACQUARIE PARK NSW 2113!1800 653 373!
+LC!Lohmann & Rauscher Pty Ltd!321 Ferntree Gully Road Mount Waverley VIC 3149!1300 572 869!
+LI!Luminarie Pty Ltd!Level 5 Nexus Building 4 Columbia Court Baulkham Hills NSW 2153!04 2443 9936!
+LL!Astellas Pharma Australia Pty Ltd!Level 3 6 Eden Park Drive Macquarie Park NSW 2113!02 9814 1100!
+LM!Link Medical Products Pty Ltd!Unit 1 5 Apollo Street WARRIEWOOD NSW 2102!02 8401 9777!
+LN!Aspen Pharmacare Australia Pty Limited!34-36 Chandos Street ST LEONARDS NSW 2065!02 8436 8300!
+LO!Leo Pharma Pty Ltd!Level 3, Tower 1 25 Montpelier Road Bowen Hills QLD 4006!07 3250 1200!
+LQ!Astellas Pharma Australia Pty Ltd!Level 3 6 Eden Park Drive Macquarie Park NSW 2113!02 9814 1100!
+LR!Cipla Australia Pty Ltd!Level 1, 132-136 Albert Road South Melbourne VIC 3205!03 9696 4413!
+LS!Astellas Pharma Australia Pty Ltd!Level 3 6 Eden Park Drive Macquarie Park NSW 2113!02 9814 1100!
+LU!Lundbeck Australia Pty Ltd!Ground Floor 1 Innovation Road North Ryde NSW 2113!02 8869 1000!
+LV!Luminarie Pty Ltd!Level 5 Nexus Building 4 Columbia Court Baulkham Hills NSW 2153!04 2443 9936!
+LX!Lawley Pharmaceuticals Pty Ltd!Unit 2, 15A Harrogate Street West Leederville WA 6007!08 9388 0096!08 9388 0098
+LY!Eli Lilly Australia Pty Ltd!112 WHARF ROAD WEST RYDE NSW 2114!02 9325 4444!
+MF!Mundipharma Pty Limited!Level 24, 88 Phillip Street Sydney NSW 2000!02 9231 7200!
+MH!Molnlycke Health Care Pty Ltd!Building 1, Ground Floor 14 Aquatic Drive Frenchs Forest NSW 2086!02 9453 1144!02 9453 1155
+MK!Merck Sharp & Dohme (Australia) Pty Ltd!Level 1, Building A 26 Talavera Road MACQUARIE PARK NSW 2113!02 8988 8000!
+MM!3M Pharmaceuticals Australia Pty Ltd!9-15 Chilvers Road Thornleigh NSW 2120!02 9875 6333!
+MQ!Alphapharm Pty Ltd!Level 1, 30 The Bond 30-34 Hickson Road Millers Point NSW 2000!1800 274 276!
+MT!Mentholatum Australasia Pty Ltd!12-16 Janine Street Scoresby VIC 3179!03 9763 0322!
+MW!Biomed Aust Pty Limited!C/o Robinson Legal Level 4, 350 Kent Street SYDNEY NSW 2000!1800 146 815!
+NE!Norgine Pty Limited!Unit 3, 14 Rodborough Road FRENCHS FOREST NSW 2086!1800 636 000!
+NF!Novo Nordisk Pharmaceuticals Pty Limited!Level 3, 21 Solent Circuit Baulkham Hills NSW 2153!1800 668 626!
+NI!Novo Nordisk Pharmaceuticals Pty Limited!Level 3, 21 Solent Circuit Baulkham Hills NSW 2153!1800 668 626!
+NM!Novartis Pharmaceuticals Australia Pty Limited!54 Waterloo Road Macquarie Park NSW 2113!1800 671 203!
+NO!Novo Nordisk Pharmaceuticals Pty Limited!Level 3, 21 Solent Circuit Baulkham Hills NSW 2153!1800 668 626!
+NQ!Takeda Pharmaceuticals Australia Pty Ltd!Suite 5.02 Level 5, Chifley Tower 2 Chifley Square Sydney NSW 2000!02 9859 6900!02 9859 6950
+NT!Nestle Australia Ltd!Suite 2/Level 1 8 Nexus Court Mulgrave VIC 3170!1800 671 628!
+NU!Nutricia Australia Pty Limited!Level 4, Building D 12-24 Talavera Road Macquarie Park NSW 2113!01800 060 051!
+NV!Novartis Pharmaceuticals Australia Pty Limited!54 Waterloo Road Macquarie Park NSW 2113!1800 671 203!
+OB!Oral B Laboratories Pty Ltd!Level 3, 90 Mount Street North Sydney NSW 2060!02 9957 6499!
+OC!Accord Healthcare Pty Ltd!Level 24 570 Bourke Street Melbourne VIC 3000!03 8658 5926!
+OD!Accord Healthcare Pty Ltd!Level 24 570 Bourke Street Melbourne VIC 3000!03 8658 5926!
+OE!Omegapharm Pty Ltd!21 Queen Street ORMOND VIC 3204!0418 351 065!
+OH!Orpharma Pty Ltd!Level 1 1 Queens Road Melbourne VIC 3004!03 9863 7501!
+OM!Colgate Oral Care!345 George Street Sydney NSW 2000!02 9229 5600!
+ON!Orion Laboratories Pty Ltd!25-29 Delawney Street Balcatta WA 6021!1800 805 546!
+OQ!Organon Pharma Pty Ltd!Level 1 - Building A 26 Talavera Rd Macquarie Park NSW 2113!02 8988 8000!
+OS!Otsuka Australia Pharmaceutical Pty Ltd!The Zenith, Level 20 Tower A 821 Pacific Highway Chatswood NSW 2067!1800 687 852!
+OU!Oraderm Pharmaceuticals Pty Ltd!15-17 Chapel Street CREMORNE VIC 3121!03 0092 7769!
+OV!Organon Pharma Pty Ltd!Level 1 - Building A 26 Talavera Rd Macquarie Park NSW 2113!02 8988 8000!
+OW!Arrow Pharma Pty Ltd!15-17 Chapel Street CREMORNE VIC 3121!1300 927 769!
+PB!Pharmaco (Australia) Limited!Locked bag 1009 Gordon NSW 2072!1 800 201 564!1 800 603 224
+PE!Allergan Australia Pty Limited!Level 4, 810 Pacific Highway Gordon NSW 2072!1800 252 224!
+PF!Pfizer Australia Pty Ltd!Levels 15-18, 151 Clarence Street Sydney NSW 2000!02 9850 3333!
+PK!Fresenius Kabi Australia Pty Limited!964 Pacific Highway Pymble NSW 2073!1800 181 537!
+PP!Petrus Pharmaceuticals Pty Ltd!PO Box 1808 WEST PERTH WA 6872!08 9368 5954!
+PY!Procter & Gamble Pharmaceuticals Australia Pty Ltd!99 Phillip Street Parramatta NSW 2150!02 9685 4500!
+QH!Cortex Health Pty Ltd!85 Argus Street Cheltenham VIC 3192!1800 367 758!
+QY!Pro Pharmaceuticals Group Pty Ltd!21 Highett Road Hampton VIC 3188!1300 077 674!
+RA!Sun Pharma ANZ Pty Ltd!Suite 2.02 Level 2, 12 Waterloo Road Macquarie Park NSW 2113!02 9887 2600!
+RB!Bio Revive Pty Ltd!182-184 Stawell St Burnley VIC 3121!1300 790 978!
+RC!Reckitt Benckiser (Australia) Pty Limited!44 Wharf Road WEST RYDE NSW 2114!1800 226 766!
+RF!Arrow Pharma Pty Ltd!15-17 Chapel Street CREMORNE VIC 3121!1300 927 769!
+RI!Dr Reddy's Laboratories (Australia) Pty Ltd!Suite 3.03 Level 3 390 St Kilda Road Melbourne VIC 3004!03 8394 1888!
+RJ!Recordati Rare Diseases Australia Pty. Ltd.!Level 6, 69 Reservoir Street Surry Hills NSW 2010!02 8218 2115!
+RM!Pharmacor Pty Limited!Suite 803, Tower A, The Zenith 821 Pacific Highway Chatswood NSW 2067!1300 138 805!
+RN!Sun Pharma ANZ Pty Ltd!Suite 2.02 Level 2, 12 Waterloo Road Macquarie Park NSW 2113!02 9887 2600!
+RO!Roche Products Pty Ltd!Level 8, 30-34 Hickson Road Sydney NSW 2000!02 9454 9000!02 9971 7401
+RW!Arrow Pharma Pty Ltd!15-17 Chapel Street CREMORNE VIC 3121!1300 927 769!
+RX!Servier Laboratories (Aust.) Pty Ltd!8 Cato Street Hawthorn VIC 3122!1800 331 675!
+RZ!Dr Reddy's Laboratories (Australia) Pty Ltd!Suite 3.03 Level 3 390 St Kilda Road Melbourne VIC 3004!03 8394 1888!
+SA!SciGen (Australia) Pty Limited!PO Box 377 Frenchs Forest NSW 1640!02 9485 1800!
+SB!Nutricia Australia Pty Limited!Level 4, Building D 12-24 Talavera Road Macquarie Park NSW 2113!01800 060 051!
+SE!Servier Laboratories (Aust.) Pty Ltd!8 Cato Street Hawthorn VIC 3122!1800 331 675!
+SG!Merck Healthcare Pty Ltd!Suite 1, Level 1, Building B 11 Talavera Road Macquarie Park NSW 2113!1800 257 348!
+SI!Sigma Company Limited!3 Myer Place ROWVILLE VIC 3178!03 9215 9215!
+SN!Smith & Nephew Pty Limited!85 Waterloo Road Macquarie Park NSW 2113!02 9857 3999!
+SS!SSL Australia Pty Ltd!225 Beach Road Mordialloc VIC 3195!1800 999 155!
+SW!sanofi-aventis Australia Pty Ltd!Building D, Talavera Corporate Centre 12-24 Talavera Road Macquarie Park NSW 2113!02 8666 2000!
+SY!Bayer Australia Ltd!PO Box 903 PYMBLE NSW 2073!1800 008 757!
+SZ!Sandoz Pty Ltd!54 Waterloo Road Macquarie Park NSW 2113!1800 726 369!
+TB!Teva Pharma Australia Pty Limited!Level 2, 37 Epping Road Macquarie Park NSW 2113!1800 288 382!
+TD!STADA Pharmaceuticals Australia Pty Limited!Suite 2.04 26 Rodborough Road Frenchs Forest NSW 2086!02 9452 6656!
+TF!Te Arai BioFarma Limited!Level 2 2a Cambridge Street Box Hill VIC 3128!1800 832 724!
+TI!Teva Pharma Australia Pty Limited!Level 2, 37 Epping Road Macquarie Park NSW 2113!1800 288 382!
+TK!Takeda Pharmaceuticals Australia Pty Ltd!Suite 5.02 Level 5, Chifley Tower 2 Chifley Square Sydney NSW 2000!02 9859 6900!02 9859 6950
+TM!Technipro Marketing Pty Ltd!PO Box 38 OATLANDS NSW 2117!02 9897 5899!
+TQ!Terumo BCT Australia Pty Limited!PO Box 1424 Lane Cove NSW 1595!02 9429 6300!
+TS!Specialised Therapeutics Australia Pty Ltd!PO Box 250 East Kew VIC 3102!1300 798 820!
+TT!Theramex Australia Pty Ltd!Level 34 60 Margaret Street Sydney NSW 2000!1800 843 726!
+TW!Apotex Pty Ltd!PO Box 280 NORTHRYDE NSW 1670!02 8877 8333!
+TX!Apotex Pty Ltd!PO Box 280 NORTHRYDE NSW 1670!02 8877 8333!
+TY!Apotex Pty Ltd!PO Box 280 NORTHRYDE NSW 1670!02 8877 8333!
+UC!UCB Australia Proprietary Limited!Level 1 1155 Malvern Road Malvern VIC 3144!03 9828 1800!
+UJ!Upjohn Australia Pty Ltd!Level 15-18 151 Clarence Street Sydney NSW 2000!01800 325 036!
+UL!Bausch & Lomb (Australia) Pty Ltd!Level 2, 12 Help Street CHATSWOOD NSW 2067!1800 251 150!
+UM!Unomedical Pty Ltd!11-17 Wilmette Place Mona Vale NSW 2103!02 9997 8033!
+UN!Unilever Australia Limited!20-22 Cambridge Street Epping NSW 2121!1800 888 449!
+UO!Bausch & Lomb (Australia) Pty Ltd!Level 2, 12 Help Street CHATSWOOD NSW 2067!1800 251 150!
+UR!Camurus Pty Ltd!223 Liverpool St Darlinghurst NSW 2010!1800 142 038!
+VE!AbbVie Pty Ltd!Level 7 241 O'Riordan Street Mascot NSW 2020!1800 043 460!
+VF!Vitaflo Australia Pty Limited!3/119 Balliang Street SOUTH GEELONG VIC 3220!03 5229 8222!
+VI!ViiV Healthcare Pty Ltd!Level 3, 436 Johnston Street Abbotsford VIC 3067!03 9413 7200!
+VL!Vifor Pharma Pty Limited!Level 8, 80 Dorcas Street Southbank VIC 3006!03 9686 0111!03 9686 0333
+VO!Avallon Pharmaceuticals Pty Limited!Level 5, 7 Eden Park Road Macquarie Park NSW 2112!02 8073 4468!
+VR!Vertex Pharmaceuticals (Australia) Pty Ltd!Suite 3, Level 3 601 Pacific Highway St Leonards NSW 2065!02 8425 0200!
+VZ!Sanofi-aventis Healthcare Pty Ltd!Building D, Talavera Corporate Centre 12-24 Talavera Road Macquarie Park NSW 2113!02 8666 2000!
+WA!sanofi-aventis Australia Pty Ltd!Building D, Talavera Corporate Centre 12-24 Talavera Road Macquarie Park NSW 2113!02 8666 2000!
+WC!Wockhardt Bio Pty Ltd!PO Box 115 MANLY NSW 1655!02 9976 6876!
+XA!Pharmaxis Ltd!20 Rodborough Road Frenchs Forest NSW 2086!02 9454 7200!
+XC!Southern Cross Pharma Pty Ltd!Suite 5 118 Church Street Hawthorn VIC 3122!03 9236 2700!
+XH!MS Health Pty Ltd!Suite 129 135 Cardigan Street Carlton VIC 3053!1300 515 883!03 9658 7449
+XI!Alexion Pharmaceuticals Australasia Pty Ltd!20 Rodborough Road Frenchs Forest NSW 2086!02 9091 0500!02 9091 0511
+XM!The Medicines Company (Australia) Pty Limited!Level 10, 68 Pitt Street Sydney NSW 2000!1800 755 459!
+YB!Bayport Brands Pty Ltd!21 Bayport Court Mornington VIC 3931!03 5925 9000!
+YC!Cipla Australia Pty Ltd!Level 1, 132-136 Albert Road South Melbourne VIC 3205!03 9696 4413!
+YN!Mayne Pharma International Pty Ltd!1538 Main North Road Salisbury South SA 5106!1300 081 849!
+YT!Mayne Products Pty Ltd!1538 Main North Road Salisbury South SA 5106!1300 081 849!
+ZA!AstraZeneca Pty Ltd!66 Talavera Rd Macquarie Park NSW 2113!02 9978 3500!
+ZP!Medis Pharma Pty Ltd!L3, 5 Essex St, The Rocks Sydney NSW 2000!02 8220 4650!02 9251 1099
+ZX!Zenex Pharmaceuticals Pty Ltd!Level 6, 141 Flinders Lane Melbourne VIC 3000!04 1378 2370!

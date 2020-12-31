@@ -1,0 +1,2047 @@
+mp-pt	item-code	manufacturer-code	pfdi
+nizatidine	1505F	AF	0.00
+nizatidine	1505F	RF	0.00
+amoxicillin + clavulanic acid	1891M	EA	0.00
+amoxicillin + clavulanic acid	1891M	ED	0.00
+amoxicillin + clavulanic acid	1891M	SZ	0.00
+amoxicillin + clavulanic acid	1891M	RW	0.00
+amoxicillin + clavulanic acid	1891M	AF	0.00
+amoxicillin + clavulanic acid	1891M	TX	0.00
+amoxicillin + clavulanic acid	1891M	TY	0.00
+amoxicillin	1884E	SZ	0.00
+amoxicillin	1884E	EA	0.00
+amoxicillin	1884E	TX	0.00
+amoxicillin	1884E	RF	0.00
+amoxicillin	1884E	AF	0.00
+amoxicillin	1884E	AL	0.00
+naproxen	1615B	IY	0.00
+cyproterone	1270W	HX	0.00
+cyproterone	1270W	AS	0.00
+cyproterone	1270W	TX	0.00
+cyproterone	1270W	GX	0.00
+cyproterone	1270W	CR	0.00
+cyproterone	1270W	AL	0.00
+cyproterone	1270W	RW	0.00
+cyproterone	1270W	EA	0.00
+levonorgestrel + ethinylestradiol	1394J	EA	0.00
+levonorgestrel + ethinylestradiol	1394J	GQ	0.00
+levonorgestrel + ethinylestradiol	1394J	TX	0.00
+levonorgestrel + ethinylestradiol	1394J	AF	0.00
+levonorgestrel + ethinylestradiol	1394J	AE	0.00
+levonorgestrel + ethinylestradiol	1394J	FZ	0.00
+doxycycline	1800R	TX	0.00
+ketoprofen	1590Q	AV	0.00
+metronidazole	1636D	AF	0.00
+metronidazole	1636D	AV	0.00
+omeprazole	1326T	RW	0.00
+omeprazole	1326T	AF	0.00
+omeprazole	1326T	HX	0.00
+omeprazole	1326T	TX	0.00
+omeprazole	1326T	SZ	0.00
+omeprazole	1326T	CR	0.00
+betamethasone dipropionate	1119X	OV	0.00
+levodopa + carbidopa	1245M	RW	0.00
+levodopa + carbidopa	1245M	TX	0.00
+cyproterone	1269T	CR	0.00
+cyproterone	1269T	AL	0.00
+cyproterone	1269T	RW	0.00
+cyproterone	1269T	TX	0.00
+cyproterone	1269T	AS	0.00
+cyproterone	1269T	EA	0.00
+cyproterone	1269T	HX	0.00
+cyproterone	1269T	GX	0.00
+bisacodyl	1260H	PP	0.00
+METOPROLOL TARTRATE	1325R	RW	0.00
+METOPROLOL TARTRATE	1325R	AF	0.00
+METOPROLOL TARTRATE	1325R	TX	0.00
+METOPROLOL TARTRATE	1325R	SZ	0.00
+METOPROLOL TARTRATE	1325R	ER	0.00
+METOPROLOL TARTRATE	1325R	EA	0.00
+verapamil	1241H	GT	0.00
+prednisone	1934T	LN	0.00
+dosulepin (dothiepin)	1357K	AL	0.00
+paracetamol + codeine	1215Y	TX	0.00
+paracetamol + codeine	1215Y	AL	0.00
+paracetamol + codeine	1215Y	AV	0.00
+paracetamol + codeine	1215Y	AF	0.00
+paracetamol + codeine	1215Y	GQ	0.00
+paracetamol + codeine	1215Y	SZ	0.00
+fluconazole	1471K	RA	0.00
+fluconazole	1471K	AF	0.00
+fluconazole	1471K	SZ	0.00
+captopril	1149L	SZ	0.00
+amoxicillin	1886G	AF	0.00
+amoxicillin	1886G	TX	0.00
+amoxicillin	1886G	VO	0.00
+betamethasone dipropionate	1115Q	OV	0.00
+nizatidine	1504E	RF	0.00
+nizatidine	1504E	AF	0.00
+ipratropium	1542E	AL	0.00
+ipratropium	1542E	TX	0.00
+ipratropium	1542E	AF	0.00
+mometasone	1913Q	AF	0.00
+mometasone	1913Q	AS	0.00
+diltiazem	1313D	AV	0.00
+diltiazem	1313D	SZ	0.00
+diltiazem	1335G	EA	0.00
+diltiazem	1335G	AV	0.00
+amoxicillin	1889K	VO	0.00
+amoxicillin	1889K	SZ	0.00
+amoxicillin	1889K	EA	0.00
+amoxicillin	1889K	GQ	0.00
+amoxicillin	1889K	RF	0.00
+amoxicillin	1889K	AL	0.00
+amoxicillin	1889K	TX	0.00
+amoxicillin	1889K	AF	0.00
+omeprazole	1327W	RW	0.00
+omeprazole	1327W	SZ	0.00
+omeprazole	1327W	AF	0.00
+omeprazole	1327W	HX	0.00
+omeprazole	1327W	CR	0.00
+omeprazole	1327W	TX	0.00
+roxithromycin	1760P	ED	0.00
+roxithromycin	1760P	SZ	0.00
+roxithromycin	1760P	EA	0.00
+roxithromycin	1760P	AV	0.00
+roxithromycin	1760P	TX	0.00
+roxithromycin	1760P	RW	0.00
+roxithromycin	1760P	AF	0.00
+naproxen	1614Y	IY	0.00
+fluoxetine	1434L	AF	0.00
+fluoxetine	1434L	AL	0.00
+fluoxetine	1434L	IB	0.00
+fluoxetine	1434L	SZ	0.00
+fluoxetine	1434L	GQ	0.00
+fluoxetine	1434L	TX	0.00
+fluoxetine	1434L	RF	0.00
+fluoxetine	1434L	ED	0.00
+fluoxetine	1434L	TY	0.00
+fluoxetine	1434L	EA	0.00
+fluoxetine	1434L	RW	0.00
+fluoxetine	1434L	JB	0.00
+levonorgestrel + ethinylestradiol	1392G	FZ	0.00
+levonorgestrel + ethinylestradiol	1392G	SY	0.00
+metronidazole	1621H	AV	0.00
+metronidazole	1621H	AF	0.00
+piroxicam	1896T	AF	0.00
+labetalol	1566K	AF	0.00
+sumatriptan	1849H	TX	0.00
+sumatriptan	1849H	SZ	0.00
+sumatriptan	1849H	EA	0.00
+sumatriptan	1849H	OW	0.00
+sumatriptan	1849H	AL	0.00
+sumatriptan	1849H	CR	0.00
+sumatriptan	1849H	GQ	0.00
+captopril	1148K	SZ	0.00
+metoclopramide	1207M	TX	0.00
+metoclopramide	1207M	EA	0.00
+metoclopramide	1207M	RW	0.00
+metoclopramide	1207M	AF	0.00
+ciprofloxacin	1217C	NM	0.00
+enalapril	1369C	GQ	0.00
+enalapril	1369C	ED	0.00
+enalapril	1369C	AL	0.00
+enalapril	1369C	SZ	0.00
+enalapril	1369C	RW	0.00
+enalapril	1369C	TX	0.00
+verapamil	1250T	AF	0.00
+isosorbide mononitrate	1558B	TX	0.00
+isosorbide mononitrate	1558B	RF	0.00
+isosorbide mononitrate	1558B	SZ	0.00
+isosorbide mononitrate	1558B	EA	0.00
+isosorbide mononitrate	1558B	AF	0.00
+isosorbide mononitrate	1558B	GX	0.00
+clonazepam	1805B	AF	0.00
+METOPROLOL TARTRATE	1324Q	SZ	0.00
+METOPROLOL TARTRATE	1324Q	TX	0.00
+METOPROLOL TARTRATE	1324Q	EA	0.00
+METOPROLOL TARTRATE	1324Q	AF	0.00
+METOPROLOL TARTRATE	1324Q	RW	0.00
+METOPROLOL TARTRATE	1324Q	ER	0.00
+hydrocortisone	1499X	AL	0.00
+clomipramine	1561E	TX	0.00
+clomipramine	1561E	AF	0.00
+clomipramine	1561E	GX	0.00
+digoxin	1322N	LN	0.00
+piroxicam	1898X	TX	0.00
+piroxicam	1898X	AF	0.00
+methylprednisolone	1928L	FZ	0.00
+carbamazepine	1724R	SZ	0.00
+piroxicam	1897W	AF	0.00
+piroxicam	1897W	TX	0.00
+dosulepin (dothiepin)	1358L	AL	0.00
+metformin	1801T	TW	0.00
+metformin	1801T	RF	0.00
+metformin	1801T	EA	0.00
+metformin	1801T	DO	0.00
+metformin	1801T	TX	0.00
+metformin	1801T	CH	0.00
+metformin	1801T	TY	0.00
+metformin	1801T	SZ	0.00
+metformin	1801T	AF	0.00
+hydrocortisone	1500Y	AL	0.00
+moclobemide	1900B	EA	0.00
+moclobemide	1900B	ED	0.00
+moclobemide	1900B	HX	0.00
+moclobemide	1900B	SZ	0.00
+moclobemide	1900B	AF	0.00
+moclobemide	1900B	TX	0.00
+naproxen	1795L	IY	0.00
+furosemide (frusemide)	1810G	TY	0.00
+furosemide (frusemide)	1810G	RW	0.00
+dextran-70 + hypromellose	1509K	IQ	0.00
+carbamazepine	1706T	SZ	0.00
+diclofenac	1300K	ED	0.00
+diclofenac	1300K	TX	0.00
+diclofenac	1300K	AF	0.00
+diclofenac	1300K	SZ	0.00
+diclofenac	1300K	EA	0.00
+diclofenac	1300K	RW	0.00
+enalapril	1368B	TX	0.00
+enalapril	1368B	SZ	0.00
+enalapril	1368B	RW	0.00
+enalapril	1368B	ED	0.00
+enalapril	1368B	AL	0.00
+enalapril	1368B	GQ	0.00
+atenolol	1081X	RW	0.00
+atenolol	1081X	GQ	0.00
+atenolol	1081X	DO	0.00
+atenolol	1081X	AF	0.00
+atenolol	1081X	TX	0.00
+atenolol	1081X	SZ	0.00
+atenolol	1081X	EF	0.00
+atenolol	1081X	ED	0.00
+paraffin	1750D	PE	0.00
+diltiazem	1312C	SZ	0.00
+diltiazem	1312C	AV	0.00
+levodopa + carbidopa	1242J	RW	0.00
+levodopa + carbidopa	1242J	AF	0.00
+levodopa + carbidopa	1242J	TX	0.00
+cefaclor	1169M	TX	0.00
+cefaclor	1169M	MQ	0.00
+cefaclor	1169M	AF	0.00
+cefaclor	1169M	GQ	0.00
+amoxicillin	1887H	SZ	0.00
+amoxicillin	1887H	AF	0.00
+amoxicillin	1887H	AL	0.00
+amoxicillin	1887H	TX	0.00
+amoxicillin	1887H	VO	0.00
+diclofenac	1299J	ED	0.00
+diclofenac	1299J	EA	0.00
+diclofenac	1299J	RW	0.00
+diclofenac	1299J	TX	0.00
+diclofenac	1299J	AF	0.00
+diclofenac	1299J	SZ	0.00
+mometasone	1915T	EO	0.00
+mometasone	1915T	AS	0.00
+mometasone	1915T	AF	0.00
+hydrocortisone acetate	2881P	LN	0.00
+olmesartan	2147B	RW	0.00
+olmesartan	2147B	SZ	0.00
+olmesartan	2147B	TX	0.00
+olmesartan	2147B	AF	0.00
+olmesartan	2147B	CR	0.00
+olmesartan	2147B	EA	0.00
+valproate	2290M	WA	0.00
+valproate	2290M	RW	0.00
+valproate	2290M	SZ	0.00
+valproate	2290M	AF	0.00
+temazepam	2089Y	AF	0.00
+temazepam	2089Y	TX	0.00
+temazepam	2089Y	LN	0.00
+furosemide (frusemide)	2412Y	EA	0.00
+furosemide (frusemide)	2412Y	TX	0.00
+furosemide (frusemide)	2412Y	AF	0.00
+furosemide (frusemide)	2412Y	ER	0.00
+furosemide (frusemide)	2412Y	TY	0.00
+simvastatin	2012X	AF	0.00
+simvastatin	2012X	SZ	0.00
+simvastatin	2012X	GQ	0.00
+simvastatin	2012X	TX	0.00
+simvastatin	2012X	EA	0.00
+simvastatin	2012X	RW	0.00
+trandolapril	2793B	RW	0.00
+trandolapril	2793B	AF	0.00
+diphenoxylate + atropine sulfate	2501P	IL	0.00
+cefaclor	2460L	MQ	0.00
+cefaclor	2460L	AF	0.00
+cefaclor	2460L	TX	0.00
+levothyroxine	2174K	LN	0.00
+levothyroxine	2175L	LN	0.00
+metformin	2430X	TY	0.00
+metformin	2430X	TX	0.00
+metformin	2430X	RF	0.00
+metformin	2430X	SZ	0.00
+metformin	2430X	HQ	0.00
+metformin	2430X	EA	0.00
+metformin	2430X	AF	0.00
+metformin	2430X	DO	0.00
+trimethoprim + sulfamethoxazole	2951H	AF	0.00
+olmesartan medoxomil + hydrochlorothiazide	2161R	AF	0.00
+olmesartan medoxomil + hydrochlorothiazide	2161R	SZ	0.00
+olmesartan medoxomil + hydrochlorothiazide	2161R	TX	0.00
+olmesartan medoxomil + hydrochlorothiazide	2161R	RW	0.00
+olmesartan medoxomil + hydrochlorothiazide	2161R	EA	0.00
+olmesartan medoxomil + hydrochlorothiazide	2161R	CR	0.00
+spironolactone	2339D	AF	0.00
+sertraline	2237R	GQ	0.00
+sertraline	2237R	RA	0.00
+sertraline	2237R	VO	0.00
+sertraline	2237R	EA	0.00
+sertraline	2237R	SZ	0.00
+sertraline	2237R	TX	0.00
+sertraline	2237R	AF	0.00
+sertraline	2237R	DO	0.00
+sertraline	2237R	RW	0.00
+simvastatin	2011W	SZ	0.00
+simvastatin	2011W	RW	0.00
+simvastatin	2011W	GQ	0.00
+simvastatin	2011W	RA	0.00
+simvastatin	2011W	EA	0.00
+simvastatin	2011W	TX	0.00
+simvastatin	2011W	AF	0.00
+lansoprazole	2240X	TX	0.00
+lansoprazole	2240X	RA	0.00
+lansoprazole	2240X	VO	0.00
+lansoprazole	2240X	AF	0.00
+betamethasone valerate	2813C	LN	0.00
+medroxyprogesterone	2321E	FZ	0.00
+polyvinyl alcohol	2682E	PE	0.00
+trandolapril	2792Y	RW	0.00
+trandolapril	2792Y	AF	0.00
+perindopril + indapamide	2845R	RW	0.00
+carbamazepine	2422L	SZ	0.00
+triamcinolone	2118L	LN	0.00
+verapamil	2208F	GT	0.00
+trimethoprim	2922T	AL	0.00
+trimethoprim	2922T	AF	0.00
+lamotrigine	2851C	AL	0.00
+lamotrigine	2851C	RW	0.00
+lamotrigine	2851C	DO	0.00
+lamotrigine	2851C	GQ	0.00
+lamotrigine	2851C	TX	0.00
+lamotrigine	2851C	SZ	0.00
+lamotrigine	2851C	HX	0.00
+lamotrigine	2851C	EA	0.00
+lamotrigine	2851C	RF	0.00
+hydrocortisone acetate	2882Q	LN	0.00
+medroxyprogesterone	2323G	FZ	0.00
+perindopril + indapamide	2190G	RW	0.00
+amlodipine	2752W	TX	0.00
+amlodipine	2752W	GQ	0.00
+amlodipine	2752W	EF	0.00
+amlodipine	2752W	IB	0.00
+amlodipine	2752W	AF	0.00
+amlodipine	2752W	SZ	0.00
+amlodipine	2752W	JB	0.00
+amlodipine	2752W	DO	0.00
+amlodipine	2752W	ED	0.00
+amlodipine	2752W	EA	0.00
+amlodipine	2752W	RW	0.00
+amlodipine	2752W	GX	0.00
+felodipine	2366M	RW	0.00
+felodipine	2366M	TX	0.00
+felodipine	2366M	AF	0.00
+irbesartan + hydrochlorothiazide	2136K	AL	0.00
+irbesartan + hydrochlorothiazide	2136K	IB	0.00
+irbesartan + hydrochlorothiazide	2136K	GQ	0.00
+irbesartan + hydrochlorothiazide	2136K	RF	0.00
+irbesartan + hydrochlorothiazide	2136K	TX	0.00
+irbesartan + hydrochlorothiazide	2136K	EF	0.00
+irbesartan + hydrochlorothiazide	2136K	SZ	0.00
+irbesartan + hydrochlorothiazide	2136K	RW	0.00
+irbesartan + hydrochlorothiazide	2136K	ED	0.00
+lamotrigine	2848X	TX	0.00
+lamotrigine	2848X	RW	0.00
+lamotrigine	2848X	SZ	0.00
+lamotrigine	2848X	HX	0.00
+lamotrigine	2848X	GQ	0.00
+lamotrigine	2848X	RF	0.00
+lamotrigine	2848X	AL	0.00
+lamotrigine	2848X	EA	0.00
+lamotrigine	2848X	DO	0.00
+olmesartan medoxomil + hydrochlorothiazide	2170F	SZ	0.00
+olmesartan medoxomil + hydrochlorothiazide	2170F	RW	0.00
+olmesartan medoxomil + hydrochlorothiazide	2170F	EA	0.00
+olmesartan medoxomil + hydrochlorothiazide	2170F	AF	0.00
+olmesartan medoxomil + hydrochlorothiazide	2170F	CR	0.00
+olmesartan medoxomil + hydrochlorothiazide	2170F	TX	0.00
+triamcinolone + neomycin + gramicidin + nystatin	2971J	LN	0.00
+lamotrigine	2849Y	GQ	0.00
+lamotrigine	2849Y	DO	0.00
+lamotrigine	2849Y	TX	0.00
+lamotrigine	2849Y	SZ	0.00
+lamotrigine	2849Y	HX	0.00
+lamotrigine	2849Y	RF	0.00
+lamotrigine	2849Y	EA	0.00
+lamotrigine	2849Y	RW	0.00
+lamotrigine	2849Y	AL	0.00
+ranitidine	1977C	AF	0.00
+ranitidine	1977C	TX	0.00
+ranitidine	1977C	RW	0.00
+norethisterone + ethinylestradiol	2774B	FZ	0.00
+temazepam	2088X	AF	0.00
+temazepam	2088X	TX	0.00
+temazepam	2088X	LN	0.00
+trandolapril	2791X	AF	0.00
+trandolapril	2791X	RW	0.00
+amlodipine	2751T	GQ	0.00
+amlodipine	2751T	IB	0.00
+amlodipine	2751T	SZ	0.00
+amlodipine	2751T	EF	0.00
+amlodipine	2751T	AF	0.00
+amlodipine	2751T	GX	0.00
+amlodipine	2751T	EA	0.00
+amlodipine	2751T	TX	0.00
+amlodipine	2751T	JB	0.00
+amlodipine	2751T	DO	0.00
+amlodipine	2751T	ED	0.00
+amlodipine	2751T	RW	0.00
+doxycycline	2711Q	RW	0.00
+doxycycline	2711Q	EA	0.00
+doxycycline	2711Q	AF	0.00
+doxycycline	2709N	RW	0.00
+doxycycline	2709N	AF	0.00
+doxycycline	2709N	EA	0.00
+indometacin	2454E	AF	0.00
+sertraline	2236Q	VO	0.00
+sertraline	2236Q	TX	0.00
+sertraline	2236Q	RA	0.00
+sertraline	2236Q	GQ	0.00
+sertraline	2236Q	EA	0.00
+sertraline	2236Q	AF	0.00
+sertraline	2236Q	DO	0.00
+sertraline	2236Q	SZ	0.00
+sertraline	2236Q	RW	0.00
+carmellose sodium	2338C	PP	0.00
+salbutamol	2001H	ED	0.00
+salbutamol	2001H	LR	0.00
+salbutamol	2001H	EA	0.00
+salbutamol	2001H	TX	0.00
+lisinopril	2457H	SZ	0.00
+lisinopril	2457H	GQ	0.00
+lisinopril	2457H	EA	0.00
+lisinopril	2457H	AL	0.00
+lisinopril	2457H	DO	0.00
+lisinopril	2457H	TX	0.00
+lisinopril	2457H	RW	0.00
+lansoprazole	2241Y	VO	0.00
+lansoprazole	2241Y	TX	0.00
+lansoprazole	2241Y	RA	0.00
+lansoprazole	2241Y	AF	0.00
+oxycodone	2622B	YN	0.00
+oxycodone	2622B	AL	0.00
+salbutamol	2000G	EA	0.00
+salbutamol	2000G	TX	0.00
+salbutamol	2000G	LR	0.00
+salbutamol	2000G	ED	0.00
+paroxetine	2242B	RW	0.00
+paroxetine	2242B	GQ	0.00
+paroxetine	2242B	SZ	0.00
+paroxetine	2242B	DO	0.00
+paroxetine	2242B	AF	0.00
+paroxetine	2242B	EA	0.00
+paroxetine	2242B	TX	0.00
+prochlorperazine	2893G	GQ	0.00
+prochlorperazine	2893G	EA	0.00
+prochlorperazine	2893G	RW	0.00
+prochlorperazine	2893G	TX	0.00
+prochlorperazine	2893G	AV	0.00
+calcitriol	2502Q	TX	0.00
+calcitriol	2502Q	EA	0.00
+calcitriol	2502Q	ER	0.00
+calcitriol	2502Q	AF	0.00
+calcitriol	2502Q	RW	0.00
+calcitriol	2502Q	ED	0.00
+medroxyprogesterone	2722G	FZ	0.00
+betaxolol	2825Q	NM	0.00
+amitriptyline	2418G	AL	0.00
+amitriptyline	2418G	RW	0.00
+amitriptyline	2418G	GQ	0.00
+amitriptyline	2418G	TX	0.00
+spironolactone	2340E	AF	0.00
+lisinopril	2458J	EA	0.00
+lisinopril	2458J	RW	0.00
+lisinopril	2458J	AL	0.00
+lisinopril	2458J	SZ	0.00
+lisinopril	2458J	TX	0.00
+lisinopril	2458J	GQ	0.00
+lisinopril	2458J	DO	0.00
+allopurinol	2600W	RF	0.00
+allopurinol	2600W	AF	0.00
+allopurinol	2600W	SZ	0.00
+allopurinol	2600W	GX	0.00
+pravastatin	2834E	RF	0.00
+pravastatin	2834E	EA	0.00
+pravastatin	2834E	SZ	0.00
+pravastatin	2834E	TX	0.00
+pravastatin	2834E	AF	0.00
+pravastatin	2834E	GQ	0.00
+furosemide (frusemide)	2414C	EA	0.00
+furosemide (frusemide)	2414C	TX	0.00
+furosemide (frusemide)	2414C	TY	0.00
+amitriptyline	2429W	RW	0.00
+amitriptyline	2429W	GQ	0.00
+amitriptyline	2429W	AL	0.00
+amitriptyline	2429W	TX	0.00
+levothyroxine	2173J	LN	0.00
+propranolol	2565B	TX	0.00
+propranolol	2566C	TX	0.00
+doxycycline	2714W	EA	0.00
+doxycycline	2714W	AF	0.00
+doxycycline	2714W	RW	0.00
+imiquimod	2546B	TX	0.00
+imiquimod	2546B	AF	0.00
+quinapril	1969P	RF	0.00
+quinapril	1969P	TX	0.00
+quinapril	1969P	RW	0.00
+quinapril	1969P	AF	0.00
+digoxin	2605D	LN	0.00
+ranitidine	1978D	EA	0.00
+ranitidine	1978D	AF	0.00
+ranitidine	1978D	RW	0.00
+ranitidine	1978D	TX	0.00
+lamotrigine	2850B	TX	0.00
+lamotrigine	2850B	SZ	0.00
+lamotrigine	2850B	HX	0.00
+lamotrigine	2850B	AL	0.00
+lamotrigine	2850B	GQ	0.00
+lamotrigine	2850B	RF	0.00
+lamotrigine	2850B	RW	0.00
+lamotrigine	2850B	DO	0.00
+lamotrigine	2850B	EA	0.00
+indapamide	2436F	RW	0.00
+indapamide	2436F	EA	0.00
+indapamide	2436F	GX	0.00
+indapamide	2436F	AF	0.00
+pravastatin	2833D	TX	0.00
+pravastatin	2833D	EA	0.00
+pravastatin	2833D	RF	0.00
+pravastatin	2833D	SZ	0.00
+amitriptyline	2417F	AL	0.00
+amitriptyline	2417F	GQ	0.00
+amitriptyline	2417F	RW	0.00
+amitriptyline	2417F	TX	0.00
+betamethasone valerate	2812B	OV	0.00
+betamethasone valerate	2812B	LN	0.00
+doxycycline	2702F	AF	0.00
+doxycycline	2702F	RW	0.00
+doxycycline	2702F	EA	0.00
+carmellose sodium	2324H	PP	0.00
+norethisterone + ethinylestradiol	2775C	FZ	0.00
+valproate	2289L	AF	0.00
+valproate	2289L	SZ	0.00
+valproate	2289L	RW	0.00
+valproate	2289L	WA	0.00
+cefaclor	2461M	MQ	0.00
+cefaclor	2461M	TX	0.00
+cefaclor	2461M	AF	0.00
+felodipine	2361G	TX	0.00
+felodipine	2361G	AF	0.00
+olmesartan medoxomil + hydrochlorothiazide	2166B	SZ	0.00
+olmesartan medoxomil + hydrochlorothiazide	2166B	EA	0.00
+olmesartan medoxomil + hydrochlorothiazide	2166B	CR	0.00
+olmesartan medoxomil + hydrochlorothiazide	2166B	AF	0.00
+olmesartan medoxomil + hydrochlorothiazide	2166B	TX	0.00
+olmesartan medoxomil + hydrochlorothiazide	2166B	RW	0.00
+olmesartan	2148C	EA	0.00
+olmesartan	2148C	TX	0.00
+olmesartan	2148C	AF	0.00
+olmesartan	2148C	CR	0.00
+olmesartan	2148C	RW	0.00
+olmesartan	2148C	SZ	0.00
+quinapril	1968N	RW	0.00
+quinapril	1968N	RF	0.00
+quinapril	1968N	AF	0.00
+sulfasalazine	2096H	FZ	0.00
+sotalol	2043M	TX	0.00
+sotalol	2043M	AF	0.00
+sotalol	2043M	SZ	0.00
+sotalol	2043M	RF	0.00
+triamcinolone	2117K	LN	0.00
+felodipine	2367N	AF	0.00
+felodipine	2367N	RW	0.00
+felodipine	2367N	TX	0.00
+framycetin sulfate + gramicidin + dexamethasone	2781J	AV	0.00
+triamcinolone + neomycin + gramicidin + nystatin	2974M	LN	0.00
+lisinopril	2456G	TX	0.00
+lisinopril	2456G	GQ	0.00
+lisinopril	2456G	EA	0.00
+lisinopril	2456G	RW	0.00
+lisinopril	2456G	DO	0.00
+lisinopril	2456G	AL	0.00
+lisinopril	2456G	SZ	0.00
+allopurinol	2604C	SZ	0.00
+allopurinol	2604C	GX	0.00
+allopurinol	2604C	RF	0.00
+allopurinol	2604C	AF	0.00
+ibuprofen	5123P	TX	0.00
+cefalexin	3094W	AF	0.00
+cefalexin	3094W	SZ	0.00
+amoxicillin	3302T	AF	0.00
+amoxicillin	3302T	TX	0.00
+amoxicillin	3302T	VO	0.00
+cefalexin	3058Y	EA	0.00
+cefalexin	3058Y	TX	0.00
+cefalexin	3058Y	AF	0.00
+cefalexin	3058Y	SZ	0.00
+hydrocortisone acetate	5113D	LN	0.00
+amlodipine + valsartan + hydrochlorothiazide	5285E	NM	0.00
+diazepam	5072Y	TX	0.00
+diazepam	5072Y	AF	0.00
+diazepam	5072Y	RW	0.00
+oxazepam	3133X	RW	0.00
+oxazepam	3133X	TX	0.00
+diazepam	5071X	TX	0.00
+diazepam	5071X	RW	0.00
+hydrocortisone acetate	5114E	LN	0.00
+olanzapine	3381Y	RW	0.00
+olanzapine	3381Y	GQ	0.00
+olanzapine	3381Y	TX	0.00
+olanzapine	3381Y	EA	0.00
+olanzapine	3381Y	SZ	0.00
+amoxicillin + clavulanic acid	5006L	TX	0.00
+amoxicillin + clavulanic acid	5006L	ED	0.00
+amoxicillin + clavulanic acid	5006L	AF	0.00
+amoxicillin + clavulanic acid	5006L	RW	0.00
+amoxicillin + clavulanic acid	5006L	SZ	0.00
+amoxicillin + clavulanic acid	5006L	HQ	0.00
+amoxicillin + clavulanic acid	5006L	EA	0.00
+cefalexin	3119E	VO	0.00
+cefalexin	3119E	GQ	0.00
+cefalexin	3119E	TX	0.00
+cefalexin	3119E	AF	0.00
+cefalexin	3119E	SZ	0.00
+cefalexin	3119E	EA	0.00
+cefalexin	3119E	CR	0.00
+ondansetron	5471Y	RZ	0.00
+ondansetron	5471Y	AF	0.00
+ondansetron	5471Y	EA	0.00
+ondansetron	5471Y	HX	0.00
+ondansetron	5471Y	TX	0.00
+ondansetron	5471Y	GQ	0.00
+ondansetron	5471Y	RF	0.00
+oxazepam	5193H	RW	0.00
+oxazepam	5193H	TX	0.00
+ibuprofen	3190X	TX	0.00
+amoxicillin	3300Q	VO	0.00
+amoxicillin	3300Q	GQ	0.00
+amoxicillin	3300Q	SZ	0.00
+amoxicillin	3300Q	AL	0.00
+amoxicillin	3300Q	TX	0.00
+amoxicillin	3300Q	RF	0.00
+amoxicillin	3300Q	AF	0.00
+amoxicillin	3300Q	EA	0.00
+amoxicillin	3301R	AF	0.00
+amoxicillin	3301R	TX	0.00
+amoxicillin	3301R	RF	0.00
+amoxicillin	3301R	EA	0.00
+amoxicillin	3301R	AL	0.00
+amoxicillin	3301R	SZ	0.00
+dicloxacillin	5096F	AL	0.00
+cefalexin	3319Q	AF	0.00
+cefalexin	3319Q	SZ	0.00
+carbamazepine	5039F	SZ	0.00
+roxithromycin	5260W	TX	0.00
+roxithromycin	5260W	RW	0.00
+roxithromycin	5260W	AF	0.00
+roxithromycin	5260W	EA	0.00
+roxithromycin	5260W	SZ	0.00
+roxithromycin	5260W	AV	0.00
+roxithromycin	5260W	ED	0.00
+cefalexin	3095X	SZ	0.00
+cefalexin	3095X	AF	0.00
+cefaclor	5047P	MQ	0.00
+cefaclor	5047P	AF	0.00
+cefaclor	5047P	TX	0.00
+cefaclor	5045M	TX	0.00
+cefaclor	5045M	GQ	0.00
+cefaclor	5045M	AF	0.00
+cefaclor	5045M	MQ	0.00
+diazepam	3161J	RW	0.00
+diazepam	3161J	TX	0.00
+oxazepam	3135B	TX	0.00
+oxazepam	3135B	RW	0.00
+ibuprofen	3192B	TX	0.00
+olanzapine	3382B	GQ	0.00
+olanzapine	3382B	RW	0.00
+olanzapine	3382B	TX	0.00
+olanzapine	3382B	EA	0.00
+olanzapine	3382B	SZ	0.00
+perindopril	3050M	AF	0.00
+perindopril	3050M	TY	0.00
+perindopril	3050M	IB	0.00
+perindopril	3050M	EA	0.00
+perindopril	3050M	RW	0.00
+perindopril	3050M	JB	0.00
+perindopril	3050M	SZ	0.00
+perindopril	3050M	TX	0.00
+perindopril	3050M	EF	0.00
+amlodipine + valsartan + hydrochlorothiazide	5287G	NM	0.00
+ondansetron	5470X	HX	0.00
+ondansetron	5470X	GQ	0.00
+ondansetron	5470X	RF	0.00
+ondansetron	5470X	EA	0.00
+ondansetron	5470X	AF	0.00
+ondansetron	5470X	TX	0.00
+ondansetron	5470X	RZ	0.00
+amlodipine + valsartan + hydrochlorothiazide	5288H	NM	0.00
+amlodipine + valsartan + hydrochlorothiazide	5286F	NM	0.00
+diazepam	3162K	RW	0.00
+diazepam	3162K	TX	0.00
+diazepam	3162K	AF	0.00
+naproxen	5179N	IY	0.00
+naproxen	5178M	IY	0.00
+amoxicillin + clavulanic acid	5011R	SZ	0.00
+cefalexin	3317N	TX	0.00
+cefalexin	3317N	EA	0.00
+cefalexin	3317N	AF	0.00
+cefalexin	3317N	SZ	0.00
+dutasteride	5468T	TX	0.00
+amlodipine + valsartan	5459H	NM	0.00
+dicloxacillin	5097G	AL	0.00
+trimethoprim + sulfamethoxazole	3390K	AF	0.00
+diclofenac	5077F	TX	0.00
+diclofenac	5077F	RW	0.00
+diclofenac	5077F	ED	0.00
+diclofenac	5077F	SZ	0.00
+diclofenac	5077F	AF	0.00
+diclofenac	5077F	EA	0.00
+colchicine	3410L	LN	0.00
+paracetamol + codeine	3316M	SZ	0.00
+paracetamol + codeine	3316M	TX	0.00
+paracetamol + codeine	3316M	AV	0.00
+paracetamol + codeine	3316M	AF	0.00
+paracetamol + codeine	3316M	AL	0.00
+paracetamol + codeine	3316M	GQ	0.00
+quetiapine	5458G	RW	0.00
+quetiapine	5458G	SZ	0.00
+quetiapine	5458G	TY	0.00
+quetiapine	5458G	OW	0.00
+metformin	3439B	CR	0.00
+metformin	3439B	IB	0.00
+metformin	3439B	TX	0.00
+metformin	3439B	RF	0.00
+metformin	3439B	AF	0.00
+metformin	3439B	RW	0.00
+cefalexin	3318P	GQ	0.00
+cefalexin	3318P	EA	0.00
+cefalexin	3318P	TX	0.00
+cefalexin	3318P	CR	0.00
+cefalexin	3318P	VO	0.00
+cefalexin	3318P	SZ	0.00
+cefalexin	3318P	AF	0.00
+prednisolone	3152X	LN	0.00
+diclofenac	5076E	AF	0.00
+diclofenac	5076E	EA	0.00
+diclofenac	5076E	TX	0.00
+diclofenac	5076E	SZ	0.00
+diclofenac	5076E	ED	0.00
+diclofenac	5076E	RW	0.00
+ibuprofen	5124Q	TX	0.00
+tramadol	5232J	EA	0.00
+tramadol	5232J	SZ	0.00
+tramadol	5232J	RW	0.00
+tramadol	5232J	AF	0.00
+tramadol	5232J	EF	0.00
+tramadol	5232J	TX	0.00
+cefalexin	3320R	SZ	0.00
+cefalexin	3320R	AF	0.00
+cefaclor	5046N	TX	0.00
+cefaclor	5046N	MQ	0.00
+cefaclor	5046N	AF	0.00
+piroxicam	5204X	TX	0.00
+piroxicam	5204X	AF	0.00
+esomeprazole	3401B	RF	0.00
+esomeprazole	3401B	AF	0.00
+esomeprazole	3401B	GQ	0.00
+esomeprazole	3401B	RA	0.00
+esomeprazole	3401B	TX	0.00
+esomeprazole	3401B	RW	0.00
+esomeprazole	3401B	SZ	0.00
+esomeprazole	3401B	HX	0.00
+naproxen	5186Y	IY	0.00
+medroxyprogesterone	3118D	FZ	0.00
+olanzapine	3385E	RW	0.00
+olanzapine	3385E	SZ	0.00
+olanzapine	3385E	TX	0.00
+olanzapine	3385E	EA	0.00
+amoxicillin	3393N	SZ	0.00
+amoxicillin	3393N	AL	0.00
+amoxicillin	3393N	AF	0.00
+amoxicillin	3393N	VO	0.00
+amoxicillin	3393N	TX	0.00
+amoxicillin + clavulanic acid	5008N	RW	0.00
+amoxicillin + clavulanic acid	5008N	TY	0.00
+amoxicillin + clavulanic acid	5008N	AF	0.00
+amoxicillin + clavulanic acid	5008N	TX	0.00
+amoxicillin + clavulanic acid	5008N	ED	0.00
+amoxicillin + clavulanic acid	5008N	EA	0.00
+amoxicillin + clavulanic acid	5008N	SZ	0.00
+ondansetron	5472B	RF	0.00
+ondansetron	5472B	GQ	0.00
+ondansetron	5472B	TX	0.00
+ondansetron	5472B	HX	0.00
+ondansetron	5472B	DO	0.00
+ondansetron	5472B	EA	0.00
+ondansetron	5472B	RZ	0.00
+ondansetron	5472B	AF	0.00
+perindopril	3051N	TX	0.00
+perindopril	3051N	TY	0.00
+perindopril	3051N	JB	0.00
+perindopril	3051N	SZ	0.00
+perindopril	3051N	AF	0.00
+perindopril	3051N	IB	0.00
+perindopril	3051N	EF	0.00
+perindopril	3051N	RW	0.00
+perindopril	3051N	GQ	0.00
+perindopril	3051N	ED	0.00
+ketoprofen	5136H	AV	0.00
+prochlorperazine	5205Y	AV	0.00
+prochlorperazine	5205Y	EA	0.00
+prochlorperazine	5205Y	GQ	0.00
+prochlorperazine	5205Y	RW	0.00
+prochlorperazine	5205Y	TX	0.00
+indometacin	5126T	AF	0.00
+oxycodone	5195K	YN	0.00
+oxycodone	5195K	AL	0.00
+amlodipine + valsartan	5460J	NM	0.00
+roxithromycin	5261X	TX	0.00
+roxithromycin	5261X	SZ	0.00
+roxithromycin	5261X	ED	0.00
+roxithromycin	5261X	RW	0.00
+roxithromycin	5261X	AF	0.00
+roxithromycin	5261X	AV	0.00
+roxithromycin	5261X	EA	0.00
+doxycycline	3321T	RW	0.00
+doxycycline	3321T	EA	0.00
+doxycycline	3321T	AF	0.00
+amlodipine + valsartan + hydrochlorothiazide	5289J	NM	0.00
+doxycycline	5082L	TX	0.00
+doxycycline	5082L	HX	0.00
+metronidazole	3339R	AF	0.00
+metronidazole	3339R	AV	0.00
+metronidazole	5155H	AF	0.00
+metronidazole	5155H	AV	0.00
+piroxicam	5203W	TX	0.00
+piroxicam	5203W	AF	0.00
+temazepam	5221T	TX	0.00
+temazepam	5221T	AF	0.00
+temazepam	5221T	LN	0.00
+piroxicam	5202T	AF	0.00
+ondansetron	5473C	HX	0.00
+ondansetron	5473C	RZ	0.00
+ondansetron	5473C	RF	0.00
+ondansetron	5473C	AF	0.00
+ondansetron	5473C	TX	0.00
+ondansetron	5473C	EA	0.00
+ondansetron	5473C	GQ	0.00
+ondansetron	5473C	DO	0.00
+metoclopramide	5151D	RW	0.00
+metoclopramide	5151D	TX	0.00
+metoclopramide	5151D	AF	0.00
+metoclopramide	5151D	EA	0.00
+olanzapine	3384D	EA	0.00
+olanzapine	3384D	TX	0.00
+olanzapine	3384D	SZ	0.00
+olanzapine	3384D	RW	0.00
+methylprednisolone	5148Y	FZ	0.00
+fluticasone propionate	8346G	GC	0.00
+fluticasone propionate	8346G	LR	0.00
+glimepiride	8450R	EA	0.00
+glimepiride	8450R	SZ	0.00
+glimepiride	8450R	AV	0.00
+glimepiride	8450R	GX	0.00
+glimepiride	8450R	AF	0.00
+glimepiride	8450R	RW	0.00
+glimepiride	8450R	TX	0.00
+fluticasone propionate	8345F	LR	0.00
+fluticasone propionate	8345F	GC	0.00
+telmisartan	8356T	GQ	0.00
+telmisartan	8356T	RZ	0.00
+telmisartan	8356T	EA	0.00
+telmisartan	8356T	CR	0.00
+telmisartan	8356T	AF	0.00
+telmisartan	8356T	SZ	0.00
+telmisartan	8356T	RW	0.00
+telmisartan	8356T	TX	0.00
+dutasteride + tamsulosin	5490Y	GC	0.00
+moclobemide	8003F	SZ	0.00
+moclobemide	8003F	TX	0.00
+moclobemide	8003F	ED	0.00
+moclobemide	8003F	AF	0.00
+moclobemide	8003F	EA	0.00
+acarbose	8189B	RW	0.00
+acarbose	8189B	AF	0.00
+brimonidine	8351M	PE	0.00
+candesartan	8296P	IB	0.00
+candesartan	8296P	AF	0.00
+candesartan	8296P	EA	0.00
+candesartan	8296P	RF	0.00
+candesartan	8296P	RW	0.00
+candesartan	8296P	TX	0.00
+candesartan	8296P	SZ	0.00
+valaciclovir	8134D	CR	0.00
+valaciclovir	8134D	RA	0.00
+valaciclovir	8134D	EA	0.00
+valaciclovir	8134D	SZ	0.00
+valaciclovir	8134D	HX	0.00
+valaciclovir	8134D	TX	0.00
+valaciclovir	8134D	RF	0.00
+valaciclovir	8134D	DO	0.00
+valaciclovir	8134D	GQ	0.00
+valaciclovir	8134D	AF	0.00
+valaciclovir	8134D	GX	0.00
+hypromellose + carbomer-980	5519L	IQ	0.00
+dorzolamide + timolol	5542Q	TX	0.00
+dorzolamide + timolol	5542Q	AF	0.00
+valaciclovir	8064K	SZ	0.00
+valaciclovir	8064K	EA	0.00
+valaciclovir	8064K	AF	0.00
+valaciclovir	8064K	RF	0.00
+valaciclovir	8064K	CR	0.00
+valaciclovir	8064K	GX	0.00
+valaciclovir	8064K	TX	0.00
+valaciclovir	8064K	GQ	0.00
+valaciclovir	8064K	RA	0.00
+fluoxetine	8270G	AF	0.00
+fluoxetine	8270G	AL	0.00
+irbesartan + hydrochlorothiazide	8405J	AL	0.00
+irbesartan + hydrochlorothiazide	8405J	IB	0.00
+irbesartan + hydrochlorothiazide	8405J	ED	0.00
+irbesartan + hydrochlorothiazide	8405J	GQ	0.00
+irbesartan + hydrochlorothiazide	8405J	RW	0.00
+irbesartan + hydrochlorothiazide	8405J	RF	0.00
+irbesartan + hydrochlorothiazide	8405J	EF	0.00
+irbesartan + hydrochlorothiazide	8405J	TX	0.00
+irbesartan + hydrochlorothiazide	8405J	SZ	0.00
+olanzapine	8187X	SZ	0.00
+olanzapine	8187X	RA	0.00
+olanzapine	8187X	GX	0.00
+olanzapine	8187X	RW	0.00
+olanzapine	8187X	DO	0.00
+olanzapine	8187X	TX	0.00
+olanzapine	8187X	EA	0.00
+olanzapine	8187X	RZ	0.00
+olanzapine	8187X	AF	0.00
+paraffin	5522P	PE	0.00
+roxithromycin	8016X	SZ	0.00
+roxithromycin	8016X	AV	0.00
+roxithromycin	8016X	EA	0.00
+roxithromycin	8016X	ED	0.00
+roxithromycin	8016X	TX	0.00
+roxithromycin	8016X	RW	0.00
+roxithromycin	8016X	AF	0.00
+omeprazole	8333N	EA	0.00
+omeprazole	8333N	GQ	0.00
+omeprazole	8333N	TX	0.00
+omeprazole	8333N	ZP	0.00
+dicloxacillin	8121K	AL	0.00
+glimepiride	8451T	TX	0.00
+glimepiride	8451T	RW	0.00
+glimepiride	8451T	EA	0.00
+glimepiride	8451T	SZ	0.00
+glimepiride	8451T	AF	0.00
+glimepiride	8451T	GX	0.00
+glimepiride	8451T	AV	0.00
+irbesartan	8247C	IB	0.00
+irbesartan	8247C	EF	0.00
+irbesartan	8247C	AL	0.00
+irbesartan	8247C	ED	0.00
+irbesartan	8247C	RF	0.00
+irbesartan	8247C	GQ	0.00
+irbesartan	8247C	SZ	0.00
+irbesartan	8247C	EA	0.00
+irbesartan	8247C	TX	0.00
+sumatriptan	8144P	SZ	0.00
+sumatriptan	8144P	TX	0.00
+sumatriptan	8144P	AL	0.00
+sumatriptan	8144P	OW	0.00
+prednisolone sodium phosphate	8285C	LN	0.00
+dicloxacillin	8122L	AL	0.00
+irbesartan	8248D	RF	0.00
+irbesartan	8248D	EA	0.00
+irbesartan	8248D	TX	0.00
+irbesartan	8248D	SZ	0.00
+irbesartan	8248D	AL	0.00
+irbesartan	8248D	EF	0.00
+irbesartan	8248D	IB	0.00
+irbesartan	8248D	ED	0.00
+irbesartan	8248D	GQ	0.00
+fluvoxamine	8174F	ED	0.00
+fluvoxamine	8174F	TX	0.00
+fluvoxamine	8174F	RW	0.00
+fluvoxamine	8174F	AF	0.00
+fluvoxamine	8174F	EA	0.00
+olanzapine	8186W	RW	0.00
+olanzapine	8186W	GX	0.00
+olanzapine	8186W	EA	0.00
+olanzapine	8186W	DO	0.00
+olanzapine	8186W	RA	0.00
+olanzapine	8186W	AF	0.00
+olanzapine	8186W	SZ	0.00
+olanzapine	8186W	RZ	0.00
+olanzapine	8186W	TX	0.00
+pravastatin	8197K	AF	0.00
+pravastatin	8197K	RF	0.00
+pravastatin	8197K	EA	0.00
+pravastatin	8197K	TX	0.00
+pravastatin	8197K	SZ	0.00
+carbomer-980	8384G	UL	0.00
+carbomer-980	8384G	PP	0.00
+quetiapine	8458E	RZ	0.00
+quetiapine	8458E	CR	0.00
+quetiapine	8458E	ED	0.00
+quetiapine	8458E	RA	0.00
+quetiapine	8458E	TX	0.00
+quetiapine	8458E	EA	0.00
+quetiapine	8458E	AF	0.00
+quetiapine	8458E	GQ	0.00
+quetiapine	8458E	GX	0.00
+quetiapine	8458E	ER	0.00
+quetiapine	8458E	RW	0.00
+quetiapine	8458E	HX	0.00
+quetiapine	8458E	SZ	0.00
+olanzapine	8434X	AF	0.00
+ipratropium	8238N	TX	0.00
+ipratropium	8238N	AL	0.00
+ipratropium	8238N	AF	0.00
+quetiapine	8457D	TX	0.00
+quetiapine	8457D	RZ	0.00
+quetiapine	8457D	EA	0.00
+quetiapine	8457D	SZ	0.00
+quetiapine	8457D	GQ	0.00
+quetiapine	8457D	ED	0.00
+quetiapine	8457D	ER	0.00
+quetiapine	8457D	HX	0.00
+quetiapine	8457D	GX	0.00
+quetiapine	8457D	CR	0.00
+quetiapine	8457D	RA	0.00
+quetiapine	8457D	RW	0.00
+quetiapine	8457D	AF	0.00
+betaxolol	5544T	NM	0.00
+valaciclovir	8133C	AF	0.00
+valaciclovir	8133C	SZ	0.00
+valaciclovir	8133C	RF	0.00
+valaciclovir	8133C	EA	0.00
+valaciclovir	8133C	GX	0.00
+valaciclovir	8133C	TX	0.00
+olanzapine	8170B	EA	0.00
+olanzapine	8170B	DO	0.00
+olanzapine	8170B	AF	0.00
+olanzapine	8170B	RZ	0.00
+olanzapine	8170B	GX	0.00
+olanzapine	8170B	TX	0.00
+olanzapine	8170B	RA	0.00
+olanzapine	8170B	RW	0.00
+olanzapine	8170B	SZ	0.00
+mometasone	8043H	AS	0.00
+mometasone	8043H	AF	0.00
+mometasone	8043H	EO	0.00
+omeprazole	8331L	EA	0.00
+omeprazole	8331L	GQ	0.00
+omeprazole	8331L	TX	0.00
+omeprazole	8331L	ZP	0.00
+salbutamol	8288F	AL	0.00
+simvastatin	8173E	SZ	0.00
+simvastatin	8173E	EA	0.00
+simvastatin	8173E	AF	0.00
+simvastatin	8173E	TX	0.00
+simvastatin	8173E	GQ	0.00
+simvastatin	8173E	RW	0.00
+quetiapine	8456C	ER	0.00
+quetiapine	8456C	EA	0.00
+quetiapine	8456C	RA	0.00
+quetiapine	8456C	AF	0.00
+quetiapine	8456C	GX	0.00
+quetiapine	8456C	GQ	0.00
+quetiapine	8456C	RW	0.00
+quetiapine	8456C	RZ	0.00
+quetiapine	8456C	CR	0.00
+quetiapine	8456C	SZ	0.00
+quetiapine	8456C	TX	0.00
+quetiapine	8456C	HX	0.00
+perindopril + indapamide	8449Q	ED	0.00
+perindopril + indapamide	8449Q	RW	0.00
+perindopril + indapamide	8449Q	GQ	0.00
+perindopril + indapamide	8449Q	SZ	0.00
+perindopril + indapamide	8449Q	GX	0.00
+perindopril + indapamide	8449Q	EF	0.00
+glimepiride	8452W	RW	0.00
+glimepiride	8452W	AF	0.00
+glimepiride	8452W	TX	0.00
+glimepiride	8452W	SZ	0.00
+glimepiride	8452W	EA	0.00
+glimepiride	8452W	GX	0.00
+glimepiride	8452W	AV	0.00
+sotalol	8398B	AF	0.00
+sotalol	8398B	SZ	0.00
+sotalol	8398B	RF	0.00
+sotalol	8398B	TX	0.00
+carmellose sodium	5506T	PP	0.00
+ciprofloxacin	5564W	NM	0.00
+candesartan	8295N	EA	0.00
+candesartan	8295N	SZ	0.00
+candesartan	8295N	RF	0.00
+candesartan	8295N	RW	0.00
+candesartan	8295N	IB	0.00
+candesartan	8295N	TX	0.00
+candesartan	8295N	AF	0.00
+candesartan	8297Q	SZ	0.00
+candesartan	8297Q	RF	0.00
+candesartan	8297Q	GQ	0.00
+candesartan	8297Q	EA	0.00
+candesartan	8297Q	RW	0.00
+candesartan	8297Q	AF	0.00
+candesartan	8297Q	IB	0.00
+candesartan	8297Q	TX	0.00
+tramadol	8455B	SZ	0.00
+tramadol	8455B	AF	0.00
+tramadol	8455B	EA	0.00
+tramadol	8455B	TX	0.00
+tramadol	8455B	RW	0.00
+tramadol	8455B	EF	0.00
+brinzolamide	5540N	NM	0.00
+irbesartan + hydrochlorothiazide	8404H	IB	0.00
+irbesartan + hydrochlorothiazide	8404H	TX	0.00
+irbesartan + hydrochlorothiazide	8404H	SZ	0.00
+irbesartan + hydrochlorothiazide	8404H	RW	0.00
+irbesartan + hydrochlorothiazide	8404H	AL	0.00
+irbesartan + hydrochlorothiazide	8404H	RF	0.00
+irbesartan + hydrochlorothiazide	8404H	EF	0.00
+irbesartan + hydrochlorothiazide	8404H	GQ	0.00
+irbesartan + hydrochlorothiazide	8404H	ED	0.00
+cyproterone	8019C	CR	0.00
+cyproterone	8019C	RW	0.00
+cyproterone	8019C	HX	0.00
+cyproterone	8019C	AS	0.00
+cyproterone	8019C	GX	0.00
+cyproterone	8019C	SY	0.00
+cyproterone	8019C	EA	0.00
+cyproterone	8019C	TX	0.00
+cyproterone	8019C	AF	0.00
+olanzapine	8185T	GX	0.00
+olanzapine	8185T	SZ	0.00
+olanzapine	8185T	EA	0.00
+olanzapine	8185T	RA	0.00
+olanzapine	8185T	DO	0.00
+olanzapine	8185T	RZ	0.00
+olanzapine	8185T	TX	0.00
+olanzapine	8185T	AF	0.00
+olanzapine	8185T	RW	0.00
+zolmitriptan	8266C	TX	0.00
+zolmitriptan	8266C	RW	0.00
+valaciclovir	5480K	GX	0.00
+valaciclovir	5480K	HX	0.00
+valaciclovir	5480K	DO	0.00
+valaciclovir	5480K	RA	0.00
+valaciclovir	5480K	TX	0.00
+valaciclovir	5480K	RF	0.00
+valaciclovir	5480K	AF	0.00
+valaciclovir	5480K	EA	0.00
+valaciclovir	5480K	GQ	0.00
+valaciclovir	5480K	CR	0.00
+valaciclovir	5480K	SZ	0.00
+amoxicillin + clavulanic acid	8254K	SZ	0.00
+amoxicillin + clavulanic acid	8254K	TX	0.00
+amoxicillin + clavulanic acid	8254K	EA	0.00
+amoxicillin + clavulanic acid	8254K	AF	0.00
+amoxicillin + clavulanic acid	8254K	RW	0.00
+amoxicillin + clavulanic acid	8254K	HQ	0.00
+amoxicillin + clavulanic acid	8254K	ED	0.00
+carmellose sodium	5505R	PP	0.00
+olanzapine	8433W	AF	0.00
+polyvinyl alcohol	5526W	PE	0.00
+telmisartan	8355R	GQ	0.00
+telmisartan	8355R	AF	0.00
+telmisartan	8355R	EA	0.00
+telmisartan	8355R	TX	0.00
+telmisartan	8355R	RZ	0.00
+telmisartan	8355R	RW	0.00
+telmisartan	8355R	CR	0.00
+telmisartan	8355R	SZ	0.00
+amoxicillin + clavulanic acid	8319W	SZ	0.00
+citalopram	8220P	EA	0.00
+citalopram	8220P	AF	0.00
+citalopram	8220P	ED	0.00
+citalopram	8220P	SZ	0.00
+citalopram	8220P	VO	0.00
+citalopram	8220P	RW	0.00
+citalopram	8220P	TX	0.00
+irbesartan	8246B	AL	0.00
+irbesartan	8246B	RF	0.00
+irbesartan	8246B	EA	0.00
+irbesartan	8246B	SZ	0.00
+irbesartan	8246B	ED	0.00
+irbesartan	8246B	GQ	0.00
+irbesartan	8246B	TX	0.00
+irbesartan	8246B	EF	0.00
+irbesartan	8246B	IB	0.00
+isosorbide mononitrate	8273K	IY	0.00
+carbomer-980	5503P	PP	0.00
+carbomer-980	5503P	UL	0.00
+dextran-70 + hypromellose	5520M	IQ	0.00
+clarithromycin	8318T	AF	0.00
+clarithromycin	8318T	ED	0.00
+clarithromycin	8318T	SZ	0.00
+clarithromycin	8318T	RW	0.00
+clarithromycin	8318T	EA	0.00
+brimonidine	5534G	PE	0.00
+rabeprazole	8507R	RW	0.00
+rabeprazole	8507R	TX	0.00
+rabeprazole	8507R	SZ	0.00
+rabeprazole	8507R	EA	0.00
+diltiazem	8480H	AV	0.00
+diltiazem	8480H	SZ	0.00
+exemestane	8506Q	SZ	0.00
+exemestane	8506Q	TX	0.00
+exemestane	8506Q	GQ	0.00
+bisoprolol	8604W	DO	0.00
+bisoprolol	8604W	EA	0.00
+bisoprolol	8604W	RW	0.00
+bisoprolol	8604W	AF	0.00
+bisoprolol	8604W	TX	0.00
+bisoprolol	8604W	GQ	0.00
+bisoprolol	8604W	SZ	0.00
+esomeprazole	8886Q	RF	0.00
+esomeprazole	8886Q	SZ	0.00
+esomeprazole	8886Q	GQ	0.00
+esomeprazole	8886Q	RA	0.00
+esomeprazole	8886Q	RW	0.00
+esomeprazole	8886Q	HX	0.00
+esomeprazole	8886Q	AF	0.00
+esomeprazole	8886Q	TX	0.00
+candesartan	8889W	TX	0.00
+candesartan	8889W	RF	0.00
+candesartan	8889W	GQ	0.00
+candesartan	8889W	RW	0.00
+candesartan	8889W	AF	0.00
+candesartan	8889W	IB	0.00
+candesartan	8889W	EA	0.00
+candesartan	8889W	SZ	0.00
+bisoprolol	8605X	GQ	0.00
+bisoprolol	8605X	DO	0.00
+bisoprolol	8605X	TX	0.00
+bisoprolol	8605X	SZ	0.00
+bisoprolol	8605X	RW	0.00
+bisoprolol	8605X	AF	0.00
+bisoprolol	8605X	EA	0.00
+methylphenidate	8839F	NM	0.00
+sertraline	8836C	VO	0.00
+sertraline	8836C	DO	0.00
+sertraline	8836C	AF	0.00
+sertraline	8836C	EA	0.00
+donepezil	8496E	EA	0.00
+donepezil	8496E	RF	0.00
+donepezil	8496E	RW	0.00
+donepezil	8496E	TX	0.00
+donepezil	8496E	RZ	0.00
+donepezil	8496E	SZ	0.00
+donepezil	8496E	AF	0.00
+donepezil	8496E	HQ	0.00
+meloxicam	8562P	RF	0.00
+meloxicam	8562P	GQ	0.00
+meloxicam	8562P	ED	0.00
+meloxicam	8562P	RW	0.00
+meloxicam	8562P	TY	0.00
+meloxicam	8562P	DO	0.00
+meloxicam	8562P	EA	0.00
+meloxicam	8562P	CR	0.00
+meloxicam	8562P	SZ	0.00
+meloxicam	8562P	LR	0.00
+meloxicam	8562P	AF	0.00
+meloxicam	8562P	TX	0.00
+sertraline	8837D	DO	0.00
+sertraline	8837D	VO	0.00
+sertraline	8837D	EA	0.00
+sertraline	8837D	AF	0.00
+candesartan + hydrochlorothiazide	8504N	DO	0.00
+candesartan + hydrochlorothiazide	8504N	SZ	0.00
+candesartan + hydrochlorothiazide	8504N	IB	0.00
+candesartan + hydrochlorothiazide	8504N	TX	0.00
+candesartan + hydrochlorothiazide	8504N	AF	0.00
+candesartan + hydrochlorothiazide	8504N	GQ	0.00
+candesartan + hydrochlorothiazide	8504N	RF	0.00
+candesartan + hydrochlorothiazide	8504N	RW	0.00
+candesartan + hydrochlorothiazide	8504N	EA	0.00
+telmisartan + hydrochlorothiazide	8623W	EA	0.00
+telmisartan + hydrochlorothiazide	8623W	AF	0.00
+telmisartan + hydrochlorothiazide	8623W	GQ	0.00
+telmisartan + hydrochlorothiazide	8623W	TX	0.00
+telmisartan + hydrochlorothiazide	8623W	SZ	0.00
+telmisartan + hydrochlorothiazide	8623W	RW	0.00
+mirtazapine	8513C	EA	0.00
+mirtazapine	8513C	TX	0.00
+mirtazapine	8513C	AF	0.00
+mirtazapine	8513C	RW	0.00
+mirtazapine	8513C	RF	0.00
+mirtazapine	8513C	SZ	0.00
+fluticasone propionate + salmeterol	8519J	SZ	0.00
+fluticasone propionate + salmeterol	8519J	LR	0.00
+fluticasone propionate + salmeterol	8519J	GC	0.00
+fluticasone propionate + salmeterol	8519J	YC	0.00
+indapamide	8532C	EA	0.00
+indapamide	8532C	AF	0.00
+indapamide	8532C	RW	0.00
+indapamide	8532C	TX	0.00
+pravastatin	8829Q	RF	0.00
+pravastatin	8829Q	EA	0.00
+pravastatin	8829Q	TX	0.00
+pravastatin	8829Q	SZ	0.00
+pravastatin	8829Q	GQ	0.00
+meloxicam	8561N	CR	0.00
+meloxicam	8561N	SZ	0.00
+meloxicam	8561N	LR	0.00
+meloxicam	8561N	RF	0.00
+meloxicam	8561N	AF	0.00
+meloxicam	8561N	TX	0.00
+meloxicam	8561N	RW	0.00
+meloxicam	8561N	ED	0.00
+meloxicam	8561N	TY	0.00
+meloxicam	8561N	EA	0.00
+meloxicam	8561N	GQ	0.00
+meloxicam	8561N	DO	0.00
+rabeprazole	8508T	AF	0.00
+rabeprazole	8508T	RW	0.00
+rabeprazole	8508T	TX	0.00
+rabeprazole	8508T	RN	0.00
+rabeprazole	8508T	AL	0.00
+rabeprazole	8508T	SZ	0.00
+rabeprazole	8508T	EA	0.00
+lercanidipine	8679T	JB	0.00
+lercanidipine	8679T	RW	0.00
+lercanidipine	8679T	SZ	0.00
+lercanidipine	8679T	GX	0.00
+lercanidipine	8679T	AL	0.00
+lercanidipine	8679T	EA	0.00
+fluvoxamine	8512B	RW	0.00
+fluvoxamine	8512B	AL	0.00
+fluvoxamine	8512B	EA	0.00
+fluvoxamine	8512B	ED	0.00
+fluvoxamine	8512B	TX	0.00
+dorzolamide + timolol	8567X	AF	0.00
+dorzolamide + timolol	8567X	TX	0.00
+meloxicam	8888T	TX	0.00
+meloxicam	8888T	CH	0.00
+meloxicam	8888T	AF	0.00
+meloxicam	8888T	RW	0.00
+meloxicam	8888T	RF	0.00
+meloxicam	8888T	SZ	0.00
+meloxicam	8888T	TW	0.00
+tramadol	8525Q	TX	0.00
+tramadol	8525Q	RW	0.00
+tramadol	8525Q	AL	0.00
+tramadol	8525Q	SZ	0.00
+tramadol	8525Q	GQ	0.00
+tramadol	8525Q	EA	0.00
+glimepiride	8533D	RW	0.00
+glimepiride	8533D	AF	0.00
+glimepiride	8533D	GX	0.00
+glimepiride	8533D	SZ	0.00
+glimepiride	8533D	AV	0.00
+glimepiride	8533D	EA	0.00
+glimepiride	8533D	TX	0.00
+telmisartan + hydrochlorothiazide	8622T	GQ	0.00
+telmisartan + hydrochlorothiazide	8622T	EA	0.00
+telmisartan + hydrochlorothiazide	8622T	TX	0.00
+telmisartan + hydrochlorothiazide	8622T	AF	0.00
+telmisartan + hydrochlorothiazide	8622T	SZ	0.00
+telmisartan + hydrochlorothiazide	8622T	RW	0.00
+trandolapril	8758Y	RW	0.00
+trandolapril	8758Y	AF	0.00
+enalapril + hydrochlorothiazide	8477E	SZ	0.00
+quetiapine	8580N	TX	0.00
+quetiapine	8580N	ED	0.00
+quetiapine	8580N	GQ	0.00
+quetiapine	8580N	ER	0.00
+quetiapine	8580N	EA	0.00
+quetiapine	8580N	AF	0.00
+quetiapine	8580N	GX	0.00
+quetiapine	8580N	RW	0.00
+quetiapine	8580N	CR	0.00
+quetiapine	8580N	HX	0.00
+quetiapine	8580N	RZ	0.00
+quetiapine	8580N	SZ	0.00
+quetiapine	8580N	RA	0.00
+ezetimibe	8757X	GQ	0.00
+ezetimibe	8757X	TX	0.00
+ezetimibe	8757X	IB	0.00
+ezetimibe	8757X	RW	0.00
+ezetimibe	8757X	CR	0.00
+ezetimibe	8757X	SZ	0.00
+ezetimibe	8757X	AF	0.00
+metformin	8607B	HX	0.00
+metformin	8607B	TX	0.00
+metformin	8607B	AF	0.00
+metformin	8607B	HQ	0.00
+metformin	8607B	EA	0.00
+metformin	8607B	SZ	0.00
+metformin	8607B	RW	0.00
+metformin	8607B	TY	0.00
+metformin	8607B	DO	0.00
+tramadol	8523N	SZ	0.00
+tramadol	8523N	EA	0.00
+tramadol	8523N	TX	0.00
+tramadol	8523N	GQ	0.00
+tramadol	8523N	AL	0.00
+tramadol	8523N	RW	0.00
+donepezil	8495D	TX	0.00
+donepezil	8495D	EA	0.00
+donepezil	8495D	HQ	0.00
+donepezil	8495D	RF	0.00
+donepezil	8495D	SZ	0.00
+donepezil	8495D	AF	0.00
+donepezil	8495D	RZ	0.00
+donepezil	8495D	RW	0.00
+meloxicam	8887R	RF	0.00
+meloxicam	8887R	SZ	0.00
+meloxicam	8887R	CH	0.00
+meloxicam	8887R	AF	0.00
+meloxicam	8887R	TW	0.00
+meloxicam	8887R	RW	0.00
+meloxicam	8887R	TX	0.00
+escitalopram	8701Y	HQ	0.00
+escitalopram	8701Y	ER	0.00
+escitalopram	8701Y	TX	0.00
+escitalopram	8701Y	RW	0.00
+escitalopram	8701Y	CF	0.00
+escitalopram	8701Y	HX	0.00
+escitalopram	8701Y	IB	0.00
+escitalopram	8701Y	AF	0.00
+escitalopram	8701Y	EA	0.00
+rabeprazole	8509W	AF	0.00
+rabeprazole	8509W	RN	0.00
+rabeprazole	8509W	TX	0.00
+rabeprazole	8509W	AL	0.00
+rabeprazole	8509W	EA	0.00
+rabeprazole	8509W	SZ	0.00
+rabeprazole	8509W	RW	0.00
+bisoprolol	8606Y	GQ	0.00
+bisoprolol	8606Y	DO	0.00
+bisoprolol	8606Y	SZ	0.00
+bisoprolol	8606Y	RW	0.00
+bisoprolol	8606Y	TX	0.00
+bisoprolol	8606Y	AF	0.00
+bisoprolol	8606Y	EA	0.00
+brinzolamide	8483L	NM	0.00
+fluticasone propionate + salmeterol	8518H	LR	0.00
+fluticasone propionate + salmeterol	8518H	GC	0.00
+fluticasone propionate + salmeterol	8518H	YC	0.00
+fluticasone propionate + salmeterol	8518H	SZ	0.00
+escitalopram	8700X	TX	0.00
+escitalopram	8700X	EA	0.00
+escitalopram	8700X	CF	0.00
+escitalopram	8700X	HQ	0.00
+escitalopram	8700X	IB	0.00
+escitalopram	8700X	RW	0.00
+escitalopram	8700X	AF	0.00
+escitalopram	8700X	HX	0.00
+escitalopram	8700X	ER	0.00
+hypromellose + carbomer-980	8564R	IQ	0.00
+esomeprazole	8601Q	RW	0.00
+esomeprazole	8601Q	HX	0.00
+esomeprazole	8601Q	AF	0.00
+esomeprazole	8601Q	TX	0.00
+esomeprazole	8601Q	SZ	0.00
+esomeprazole	8601Q	RF	0.00
+esomeprazole	8601Q	RA	0.00
+esomeprazole	8601Q	GQ	0.00
+esomeprazole	8600P	TX	0.00
+esomeprazole	8600P	HX	0.00
+esomeprazole	8600P	RA	0.00
+esomeprazole	8600P	AF	0.00
+esomeprazole	8600P	GQ	0.00
+esomeprazole	8600P	SZ	0.00
+esomeprazole	8600P	RF	0.00
+esomeprazole	8600P	RW	0.00
+perindopril	8704D	RW	0.00
+perindopril	8704D	TY	0.00
+perindopril	8704D	IB	0.00
+perindopril	8704D	ED	0.00
+perindopril	8704D	SZ	0.00
+perindopril	8704D	GQ	0.00
+perindopril	8704D	AF	0.00
+perindopril	8704D	JB	0.00
+perindopril	8704D	EF	0.00
+perindopril	8704D	TX	0.00
+lercanidipine	8534E	JB	0.00
+lercanidipine	8534E	SZ	0.00
+lercanidipine	8534E	AL	0.00
+lercanidipine	8534E	EA	0.00
+lercanidipine	8534E	RW	0.00
+lercanidipine	8534E	GX	0.00
+amoxicillin	8581P	BG	0.00
+tramadol	8524P	SZ	0.00
+tramadol	8524P	RW	0.00
+tramadol	8524P	GQ	0.00
+tramadol	8524P	TX	0.00
+tramadol	8524P	AL	0.00
+tramadol	8524P	EA	0.00
+carbomer-980	9210R	PP	0.00
+carbomer-980	9210R	UL	0.00
+doxycycline	9106G	TX	0.00
+doxycycline	9106G	HX	0.00
+doxycycline	9106G	RW	0.00
+telmisartan + amlodipine	8979N	FI	0.00
+doxycycline	9108J	HX	0.00
+quetiapine	9204K	TY	0.00
+quetiapine	9204K	SZ	0.00
+quetiapine	9204K	RW	0.00
+quetiapine	9204K	TX	0.00
+quetiapine	9204K	RF	0.00
+quetiapine	9204K	OW	0.00
+simvastatin	9244M	AF	0.00
+simvastatin	9244M	SZ	0.00
+simvastatin	9244M	GQ	0.00
+simvastatin	9244M	RW	0.00
+simvastatin	9244M	EA	0.00
+simvastatin	9244M	TX	0.00
+amlodipine + valsartan	9375K	NM	0.00
+sulfasalazine	9209Q	FZ	0.00
+quetiapine	9202H	TX	0.00
+quetiapine	9202H	TY	0.00
+quetiapine	9202H	RW	0.00
+quetiapine	9202H	OW	0.00
+quetiapine	9202H	SZ	0.00
+quetiapine	9202H	RF	0.00
+amlodipine + valsartan	9376L	NM	0.00
+quetiapine	9203J	OW	0.00
+quetiapine	9203J	TX	0.00
+quetiapine	9203J	RF	0.00
+quetiapine	9203J	TY	0.00
+quetiapine	9203J	RW	0.00
+quetiapine	9203J	SZ	0.00
+perindopril	9006B	TX	0.00
+perindopril	9006B	RW	0.00
+quetiapine	9205L	OW	0.00
+quetiapine	9205L	TY	0.00
+quetiapine	9205L	RW	0.00
+quetiapine	9205L	TX	0.00
+quetiapine	9205L	SZ	0.00
+quetiapine	9205L	RF	0.00
+amlodipine + valsartan	9377M	NM	0.00
+simvastatin	9242K	GQ	0.00
+simvastatin	9242K	TX	0.00
+simvastatin	9242K	SZ	0.00
+simvastatin	9242K	AF	0.00
+simvastatin	9242K	EA	0.00
+simvastatin	9242K	RA	0.00
+simvastatin	9242K	RW	0.00
+amlodipine + atorvastatin	9056P	AF	0.00
+amlodipine + atorvastatin	9052K	AF	0.00
+levothyroxine	9287T	LN	0.00
+amlodipine + atorvastatin	9054M	AF	0.00
+amlodipine + atorvastatin	9055N	AF	0.00
+pravastatin	9239G	SZ	0.00
+pravastatin	9239G	TX	0.00
+pravastatin	9239G	RF	0.00
+pravastatin	9239G	EA	0.00
+pravastatin	9239G	AF	0.00
+pravastatin	9240H	RF	0.00
+pravastatin	9240H	EA	0.00
+pravastatin	9240H	SZ	0.00
+pravastatin	9240H	GQ	0.00
+pravastatin	9240H	TX	0.00
+telmisartan + amlodipine	8981Q	FI	0.00
+paraffin	9218E	PE	0.00
+alendronate + colecalciferol	9012H	GX	0.00
+alendronate + colecalciferol	9012H	RZ	0.00
+alendronate + colecalciferol	9012H	AF	0.00
+alendronate + colecalciferol	9012H	SZ	0.00
+perindopril	9008D	RW	0.00
+perindopril	9008D	TX	0.00
+doxycycline	9105F	HX	0.00
+doxycycline	9105F	TX	0.00
+candesartan + hydrochlorothiazide	9315G	SZ	0.00
+candesartan + hydrochlorothiazide	9315G	RW	0.00
+candesartan + hydrochlorothiazide	9315G	DO	0.00
+candesartan + hydrochlorothiazide	9315G	RF	0.00
+candesartan + hydrochlorothiazide	9315G	EA	0.00
+candesartan + hydrochlorothiazide	9315G	GQ	0.00
+candesartan + hydrochlorothiazide	9315G	AF	0.00
+candesartan + hydrochlorothiazide	9315G	IB	0.00
+candesartan + hydrochlorothiazide	9315G	TX	0.00
+candesartan + hydrochlorothiazide	9314F	TX	0.00
+candesartan + hydrochlorothiazide	9314F	IB	0.00
+candesartan + hydrochlorothiazide	9314F	AF	0.00
+candesartan + hydrochlorothiazide	9314F	RF	0.00
+candesartan + hydrochlorothiazide	9314F	SZ	0.00
+candesartan + hydrochlorothiazide	9314F	RW	0.00
+candesartan + hydrochlorothiazide	9314F	EA	0.00
+candesartan + hydrochlorothiazide	9314F	GQ	0.00
+candesartan + hydrochlorothiazide	9314F	DO	0.00
+perindopril + amlodipine	9349C	RW	0.00
+perindopril + amlodipine	9349C	TX	0.00
+telmisartan + amlodipine	8978M	FI	0.00
+simvastatin	9243L	AF	0.00
+simvastatin	9243L	SZ	0.00
+simvastatin	9243L	RW	0.00
+simvastatin	9243L	GQ	0.00
+simvastatin	9243L	TX	0.00
+simvastatin	9243L	EA	0.00
+lansoprazole	9331D	AF	0.00
+lansoprazole	9331D	GQ	0.00
+lansoprazole	9331D	TX	0.00
+telmisartan + hydrochlorothiazide	9381R	TX	0.00
+telmisartan + hydrochlorothiazide	9381R	RW	0.00
+telmisartan + hydrochlorothiazide	9381R	GQ	0.00
+telmisartan + hydrochlorothiazide	9381R	SZ	0.00
+telmisartan + hydrochlorothiazide	9381R	AF	0.00
+telmisartan + hydrochlorothiazide	9381R	EA	0.00
+doxycycline	9107H	TX	0.00
+doxycycline	9107H	HX	0.00
+telmisartan + amlodipine	8980P	FI	0.00
+dextran-70 + hypromellose	9216C	IQ	0.00
+olanzapine	8953F	AF	0.00
+omeprazole	9110L	AL	0.00
+omeprazole	9110L	SZ	0.00
+omeprazole	9110L	ZA	0.00
+perindopril	9007C	RW	0.00
+perindopril	9007C	TX	0.00
+perindopril + amlodipine	9348B	TX	0.00
+perindopril + amlodipine	9348B	RW	0.00
+perindopril + amlodipine	9347Y	RW	0.00
+perindopril + amlodipine	9347Y	TX	0.00
+polyvinyl alcohol	9220G	PE	0.00
+pravastatin	9237E	TX	0.00
+pravastatin	9237E	RF	0.00
+pravastatin	9237E	EA	0.00
+pravastatin	9237E	SZ	0.00
+omeprazole	9109K	SZ	0.00
+omeprazole	9109K	AL	0.00
+omeprazole	9109K	ZA	0.00
+duloxetine	9156X	EA	0.00
+duloxetine	9156X	CR	0.00
+duloxetine	9156X	HX	0.00
+duloxetine	9156X	AL	0.00
+duloxetine	9156X	TX	0.00
+duloxetine	9156X	RW	0.00
+duloxetine	9156X	SZ	0.00
+duloxetine	9156X	EL	0.00
+pravastatin	9238F	GQ	0.00
+pravastatin	9238F	SZ	0.00
+pravastatin	9238F	EA	0.00
+pravastatin	9238F	RF	0.00
+pravastatin	9238F	AF	0.00
+pravastatin	9238F	TX	0.00
+duloxetine	9155W	RW	0.00
+duloxetine	9155W	AL	0.00
+duloxetine	9155W	CR	0.00
+duloxetine	9155W	HX	0.00
+duloxetine	9155W	EA	0.00
+duloxetine	9155W	TX	0.00
+duloxetine	9155W	EL	0.00
+duloxetine	9155W	SZ	0.00
+olanzapine	8952E	AF	0.00
+amlodipine + atorvastatin	9053L	AF	0.00
+amlodipine + atorvastatin	9051J	AF	0.00
+hypromellose + carbomer-980	9215B	IQ	0.00
+gliclazide	9302N	CR	0.00
+gliclazide	9302N	RX	0.00
+perindopril + amlodipine	9346X	TX	0.00
+perindopril + amlodipine	9346X	RW	0.00
+alendronate + colecalciferol	9183H	SZ	0.00
+alendronate + colecalciferol	9183H	GX	0.00
+alendronate + colecalciferol	9183H	AF	0.00
+alendronate + colecalciferol	9183H	RZ	0.00
+rosuvastatin	2590H	RW	0.00
+rosuvastatin	2590H	DO	0.00
+rosuvastatin	2590H	HQ	0.00
+rosuvastatin	2590H	VO	0.00
+rosuvastatin	2590H	EF	0.00
+rosuvastatin	2590H	TX	0.00
+rosuvastatin	2590H	JB	0.00
+rosuvastatin	2590H	IB	0.00
+rosuvastatin	2590H	RA	0.00
+rosuvastatin	2590H	GX	0.00
+rosuvastatin	2590H	SZ	0.00
+rosuvastatin	2590H	CR	0.00
+rosuvastatin	2590H	AF	0.00
+rosuvastatin	2594M	VO	0.00
+rosuvastatin	2594M	EF	0.00
+rosuvastatin	2594M	CR	0.00
+rosuvastatin	2594M	HQ	0.00
+rosuvastatin	2594M	IB	0.00
+rosuvastatin	2594M	RA	0.00
+rosuvastatin	2594M	DO	0.00
+rosuvastatin	2594M	RW	0.00
+rosuvastatin	2594M	TX	0.00
+rosuvastatin	2594M	SZ	0.00
+rosuvastatin	2594M	GX	0.00
+rosuvastatin	2594M	AF	0.00
+rosuvastatin	2594M	JB	0.00
+donepezil	2532G	RZ	0.00
+donepezil	2532G	HQ	0.00
+donepezil	2532G	SZ	0.00
+donepezil	2532G	AF	0.00
+donepezil	2532G	RF	0.00
+donepezil	2532G	EA	0.00
+donepezil	2532G	TX	0.00
+donepezil	2532G	RW	0.00
+lansoprazole	9477T	TX	0.00
+lansoprazole	9477T	AF	0.00
+lansoprazole	9477T	GQ	0.00
+esomeprazole	10330Q	EA	0.00
+esomeprazole	10330Q	AL	0.00
+rosuvastatin	2574L	HQ	0.00
+rosuvastatin	2574L	EF	0.00
+rosuvastatin	2574L	RW	0.00
+rosuvastatin	2574L	RA	0.00
+rosuvastatin	2574L	CR	0.00
+rosuvastatin	2574L	VO	0.00
+rosuvastatin	2574L	JB	0.00
+rosuvastatin	2574L	AF	0.00
+rosuvastatin	2574L	SZ	0.00
+rosuvastatin	2574L	TX	0.00
+rosuvastatin	2574L	IB	0.00
+rosuvastatin	2574L	GX	0.00
+rosuvastatin	2574L	DO	0.00
+escitalopram	9433L	HQ	0.00
+escitalopram	9433L	CF	0.00
+rosuvastatin	2628H	VO	0.00
+rosuvastatin	2628H	JB	0.00
+rosuvastatin	2628H	GX	0.00
+rosuvastatin	2628H	HQ	0.00
+rosuvastatin	2628H	RA	0.00
+rosuvastatin	2628H	CR	0.00
+rosuvastatin	2628H	RW	0.00
+rosuvastatin	2628H	IB	0.00
+rosuvastatin	2628H	DO	0.00
+rosuvastatin	2628H	SZ	0.00
+rosuvastatin	2628H	AF	0.00
+rosuvastatin	2628H	TX	0.00
+rosuvastatin	2628H	EF	0.00
+esomeprazole	10295W	AL	0.00
+esomeprazole	10295W	EA	0.00
+rosuvastatin	2606E	IB	0.00
+rosuvastatin	2606E	SZ	0.00
+rosuvastatin	2606E	CR	0.00
+rosuvastatin	2606E	GX	0.00
+rosuvastatin	2606E	DO	0.00
+rosuvastatin	2606E	VO	0.00
+rosuvastatin	2606E	HQ	0.00
+rosuvastatin	2606E	TX	0.00
+rosuvastatin	2606E	RA	0.00
+rosuvastatin	2606E	RW	0.00
+rosuvastatin	2606E	AF	0.00
+rosuvastatin	2606E	EF	0.00
+rosuvastatin	2606E	JB	0.00
+donepezil	2479L	RZ	0.00
+donepezil	2479L	TX	0.00
+donepezil	2479L	RW	0.00
+donepezil	2479L	SZ	0.00
+donepezil	2479L	EA	0.00
+donepezil	2479L	AF	0.00
+donepezil	2479L	HQ	0.00
+donepezil	2479L	RF	0.00
+escitalopram	9432K	HQ	0.00
+escitalopram	9432K	CF	0.00
+trimethoprim	2666H	AF	0.00
+trimethoprim	2666H	AL	0.00
+metformin	9435N	RW	0.00
+metformin	9435N	CR	0.00
+metformin	9435N	GX	0.00
+metformin	9435N	IB	0.00
+metformin	9435N	TX	0.00
+lansoprazole	9478W	AF	0.00
+lansoprazole	9478W	GQ	0.00
+lansoprazole	9478W	TX	0.00
+exemestane	10103R	TX	0.00
+exemestane	10103R	SZ	0.00
+exemestane	10103R	GQ	0.00
+esomeprazole	10343J	AL	0.00
+esomeprazole	10343J	EA	0.00
+rosuvastatin	2584B	IB	0.00
+rosuvastatin	2584B	VO	0.00
+rosuvastatin	2584B	CR	0.00
+rosuvastatin	2584B	JB	0.00
+rosuvastatin	2584B	GX	0.00
+rosuvastatin	2584B	EF	0.00
+rosuvastatin	2584B	TX	0.00
+rosuvastatin	2584B	AF	0.00
+rosuvastatin	2584B	HQ	0.00
+rosuvastatin	2584B	RW	0.00
+rosuvastatin	2584B	DO	0.00
+rosuvastatin	2584B	RA	0.00
+rosuvastatin	2584B	SZ	0.00
+cefalexin	2655R	SZ	0.00
+cefalexin	2655R	EA	0.00
+cefalexin	2655R	AF	0.00
+cefalexin	2655R	TX	0.00
+esomeprazole	10331R	EA	0.00
+esomeprazole	10331R	AL	0.00
+rosuvastatin	2609H	RA	0.00
+rosuvastatin	2609H	CR	0.00
+rosuvastatin	2609H	TX	0.00
+rosuvastatin	2609H	JB	0.00
+rosuvastatin	2609H	HQ	0.00
+rosuvastatin	2609H	VO	0.00
+rosuvastatin	2609H	DO	0.00
+rosuvastatin	2609H	EF	0.00
+rosuvastatin	2609H	AF	0.00
+rosuvastatin	2609H	GX	0.00
+rosuvastatin	2609H	IB	0.00
+rosuvastatin	2609H	RW	0.00
+rosuvastatin	2609H	SZ	0.00
+rosuvastatin	2636R	EF	0.00
+rosuvastatin	2636R	IB	0.00
+rosuvastatin	2636R	AF	0.00
+rosuvastatin	2636R	VO	0.00
+rosuvastatin	2636R	SZ	0.00
+rosuvastatin	2636R	GX	0.00
+rosuvastatin	2636R	CR	0.00
+rosuvastatin	2636R	HQ	0.00
+rosuvastatin	2636R	RW	0.00
+rosuvastatin	2636R	TX	0.00
+rosuvastatin	2636R	JB	0.00
+rosuvastatin	2636R	RA	0.00
+rosuvastatin	2636R	DO	0.00
+esomeprazole (&) clarithromycin (&) amoxicillin	10759G	SZ	0.00
+ezetimibe (&) rosuvastatin	10204C	AF	0.00
+betamethasone dipropionate	10821M	OV	0.00
+mometasone	10827W	AF	0.00
+mometasone	10827W	AS	0.00
+betamethasone dipropionate	10816G	OV	0.00
+mometasone	10814E	EO	0.00
+mometasone	10814E	AF	0.00
+mometasone	10814E	AS	0.00
+mometasone	10793C	AS	0.00
+mometasone	10793C	EO	0.00
+mometasone	10793C	AF	0.00
+mometasone	10818J	AF	0.00
+mometasone	10818J	AS	0.00
+betamethasone valerate	10808W	LN	0.00
+betamethasone dipropionate	10813D	OV	0.00
+betamethasone dipropionate	10795E	OV	0.00
+trimethoprim	10785P	AL	0.00
+trimethoprim	10785P	AF	0.00
+ezetimibe (&) rosuvastatin	10201X	AF	0.00
+ezetimibe (&) rosuvastatin	10207F	AF	0.00
+betamethasone dipropionate	10824Q	OV	0.00
+cefalexin	10778G	VO	0.00
+cefalexin	10778G	CR	0.00
+cefalexin	10778G	GQ	0.00
+cefalexin	10778G	AF	0.00
+cefalexin	10778G	TX	0.00
+cefalexin	10778G	EA	0.00
+cefalexin	10778G	SZ	0.00
+betamethasone valerate	10807T	LN	0.00
+betamethasone dipropionate	10823P	OV	0.00
+doxycycline	10176N	RW	0.00
+doxycycline	10176N	AF	0.00
+doxycycline	10176N	EA	0.00
+betamethasone valerate	10799J	LN	0.00
+ezetimibe (&) rosuvastatin	10208G	AF	0.00
+trimethoprim + sulfamethoxazole	10784N	AF	0.00
+betamethasone valerate	10810Y	LN	0.00
+mometasone	10828X	AS	0.00
+mometasone	10828X	EO	0.00
+mometasone	10828X	AF	0.00
+mometasone	10791Y	AS	0.00
+mometasone	10791Y	EO	0.00
+mometasone	10791Y	AF	0.00
+betamethasone dipropionate	10801L	OV	0.00
+mometasone	10812C	AF	0.00
+mometasone	10812C	AS	0.00
+mometasone	10812C	EO	0.00
+betamethasone dipropionate	10800K	OV	0.00
+mometasone	10809X	AS	0.00
+mometasone	10809X	AF	0.00
+betamethasone dipropionate	10820L	OV	0.00
+betamethasone dipropionate	10802M	OV	0.00
+mometasone	10815F	AF	0.00
+mometasone	10815F	AS	0.00
+betamethasone valerate	10794D	LN	0.00
+dicloxacillin	10790X	AL	0.00
+mometasone	10792B	AF	0.00
+mometasone	10792B	AS	0.00
+mometasone	10805Q	AS	0.00
+mometasone	10805Q	EO	0.00
+mometasone	10805Q	AF	0.00
+mometasone	10826T	AS	0.00
+mometasone	10826T	AF	0.00
+mometasone	10826T	EO	0.00
+mometasone	10804P	AF	0.00
+mometasone	10804P	AS	0.00
+mometasone	10804P	EO	0.00
+mometasone	10819K	AF	0.00
+mometasone	10819K	AS	0.00
+mometasone	10819K	EO	0.00
+tramadol	12008B	SZ	0.00
+tramadol	12008B	RW	0.00
+tramadol	12008B	EA	0.00
+tramadol	12008B	TX	0.00
+tramadol	12008B	EF	0.00
+tramadol	12008B	AF	0.00
+omeprazole	11683X	GQ	0.00
+omeprazole	11683X	TX	0.00
+omeprazole	11683X	ZP	0.00
+omeprazole	11683X	EA	0.00
+cefalexin	11963P	EA	0.00
+cefalexin	11963P	SZ	0.00
+cefalexin	11963P	AF	0.00
+cefalexin	11963P	TX	0.00
+amoxicillin	11947T	EA	0.00
+amoxicillin	11947T	SZ	0.00
+amoxicillin	11947T	GQ	0.00
+amoxicillin	11947T	VO	0.00
+amoxicillin	11947T	RF	0.00
+amoxicillin	11947T	AF	0.00
+amoxicillin	11947T	AL	0.00
+amoxicillin	11947T	TX	0.00
+amoxicillin + clavulanic acid	11933C	TX	0.00
+amoxicillin + clavulanic acid	11933C	ED	0.00
+amoxicillin + clavulanic acid	11933C	AF	0.00
+amoxicillin + clavulanic acid	11933C	EA	0.00
+amoxicillin + clavulanic acid	11933C	RW	0.00
+amoxicillin + clavulanic acid	11933C	HQ	0.00
+amoxicillin + clavulanic acid	11933C	SZ	0.00
+donepezil	11922L	RF	0.00
+donepezil	11922L	SZ	0.00
+donepezil	11922L	TX	0.00
+donepezil	11922L	HQ	0.00
+donepezil	11922L	EA	0.00
+donepezil	11922L	RW	0.00
+donepezil	11922L	AF	0.00
+donepezil	11922L	RZ	0.00
+esomeprazole	11687D	EA	0.00
+esomeprazole	11687D	AL	0.00
+ezetimibe	11408K	RW	0.00
+ezetimibe	11408K	AF	0.00
+ezetimibe	11408K	CR	0.00
+amoxicillin	11998L	RF	0.00
+amoxicillin	11998L	SZ	0.00
+amoxicillin	11998L	EA	0.00
+amoxicillin	11998L	AL	0.00
+amoxicillin	11998L	AF	0.00
+amoxicillin	11998L	TX	0.00
+omeprazole	11677N	SZ	0.00
+omeprazole	11677N	ZA	0.00
+omeprazole	11677N	AL	0.00
+salbutamol	12109H	GC	0.00
+salbutamol	12109H	AF	0.00
+roxithromycin	12001P	AV	0.00
+roxithromycin	12001P	EA	0.00
+roxithromycin	12001P	ED	0.00
+roxithromycin	12001P	TX	0.00
+roxithromycin	12001P	RW	0.00
+roxithromycin	12001P	AF	0.00
+roxithromycin	12001P	SZ	0.00
+cefalexin	11934D	EA	0.00
+cefalexin	11934D	SZ	0.00
+cefalexin	11934D	AF	0.00
+cefalexin	11934D	TX	0.00
+cefalexin	11934D	VO	0.00
+cefalexin	11934D	CR	0.00
+cefalexin	11934D	GQ	0.00
+paracetamol + codeine	12022R	AL	0.00
+paracetamol + codeine	12022R	TX	0.00
+paracetamol + codeine	12022R	SZ	0.00
+paracetamol + codeine	12022R	AV	0.00
+paracetamol + codeine	12022R	AF	0.00
+paracetamol + codeine	12022R	GQ	0.00
+hypromellose	11643T	IQ	0.00
+paracetamol + codeine	12066C	GQ	0.00
+paracetamol + codeine	12066C	TX	0.00
+paracetamol + codeine	12066C	SZ	0.00
+paracetamol + codeine	12066C	AV	0.00
+paracetamol + codeine	12066C	AL	0.00
+paracetamol + codeine	12066C	AF	0.00
+oxycodone	12023T	AL	0.00
+oxycodone	12023T	YN	0.00
+metformin	12104C	DZ	0.00
+lansoprazole	11669E	RA	0.00
+lansoprazole	11669E	AF	0.00
+lansoprazole	11669E	TX	0.00
+lansoprazole	11669E	VO	0.00
+tramadol	12024W	EA	0.00
+tramadol	12024W	AF	0.00
+tramadol	12024W	RW	0.00
+tramadol	12024W	SZ	0.00
+tramadol	12024W	EF	0.00
+tramadol	12024W	TX	0.00
+oxycodone	12048D	AL	0.00
+oxycodone	12048D	YN	0.00
+lansoprazole	11697P	GQ	0.00
+lansoprazole	11697P	AF	0.00
+lansoprazole	11697P	TX	0.00
+roxithromycin	11993F	AF	0.00
+roxithromycin	11993F	SZ	0.00
+roxithromycin	11993F	TX	0.00
+roxithromycin	11993F	RW	0.00
+roxithromycin	11993F	ED	0.00
+roxithromycin	11993F	EA	0.00
+roxithromycin	11993F	AV	0.00
+amoxicillin + clavulanic acid	11941L	EA	0.00
+amoxicillin + clavulanic acid	11941L	TY	0.00
+amoxicillin + clavulanic acid	11941L	SZ	0.00
+amoxicillin + clavulanic acid	11941L	ED	0.00
+amoxicillin + clavulanic acid	11941L	RW	0.00
+amoxicillin + clavulanic acid	11941L	AF	0.00
+amoxicillin + clavulanic acid	11941L	TX	0.00
+rabeprazole	11670F	RW	0.00
+rabeprazole	11670F	SZ	0.00
+rabeprazole	11670F	AF	0.00
+rabeprazole	11670F	EA	0.00
+rabeprazole	11670F	TX	0.00
+rabeprazole	11670F	RN	0.00
+rabeprazole	11670F	AL	0.00
+esomeprazole	11692J	AF	0.00
+esomeprazole	11692J	SZ	0.00
+esomeprazole	11692J	RF	0.00
+esomeprazole	11692J	RW	0.00
+esomeprazole	11692J	GQ	0.00
+esomeprazole	11692J	HX	0.00
+esomeprazole	11692J	RA	0.00
+esomeprazole	11692J	TX	0.00
+amoxicillin	12002Q	BG	0.00
+omeprazole	11682W	RW	0.00
+omeprazole	11682W	SZ	0.00
+omeprazole	11682W	AF	0.00
+omeprazole	11682W	TX	0.00
+omeprazole	11682W	HX	0.00
+omeprazole	11682W	CR	0.00
+hypromellose	11634H	IQ	0.00
+hypromellose	11625W	IQ	0.00
+donepezil	11924N	RZ	0.00
+donepezil	11924N	EA	0.00
+donepezil	11924N	HQ	0.00
+donepezil	11924N	SZ	0.00
+donepezil	11924N	AF	0.00
+donepezil	11924N	TX	0.00
+donepezil	11924N	RW	0.00
+donepezil	11924N	RF	0.00
+norethisterone + ethinylestradiol	12211Q	DZ	0.00
+clonazepam	5337X	AF	0.00
+diclofenac	5362F	AF	0.00
+diclofenac	5362F	TX	0.00
+diclofenac	5362F	SZ	0.00
+diclofenac	5362F	EA	0.00
+diclofenac	5362F	ED	0.00
+diclofenac	5362F	RW	0.00
+naproxen	5353R	IY	0.00
+ibuprofen	5368M	TX	0.00
+diazepam	5355W	RW	0.00
+diazepam	5355W	TX	0.00
+bisacodyl	5303D	PP	0.00
+naproxen	5347K	IY	0.00
+diclofenac	5361E	EA	0.00
+diclofenac	5361E	AF	0.00
+diclofenac	5361E	ED	0.00
+diclofenac	5361E	TX	0.00
+diclofenac	5361E	SZ	0.00
+diclofenac	5361E	RW	0.00
+indometacin	5377B	AF	0.00
+naproxen	5348L	IY	0.00
+temazepam	5375X	TX	0.00
+temazepam	5375X	LN	0.00
+temazepam	5375X	AF	0.00
+diazepam	5356X	RW	0.00
+diazepam	5356X	AF	0.00
+diazepam	5356X	TX	0.00
+oxazepam	5372R	TX	0.00
+oxazepam	5372R	RW	0.00
+lamivudine	10315X	AF	0.00
+valaciclovir	6280M	RA	0.00
+valaciclovir	6280M	GX	0.00
+valaciclovir	6280M	TX	0.00

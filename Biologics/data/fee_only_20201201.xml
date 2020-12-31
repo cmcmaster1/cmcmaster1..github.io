@@ -1,0 +1,56 @@
+<schedule>
+   <program>
+      <code resource="http://pbs.gov.au/code/program">EP</code>
+   </program>
+   <program>
+      <code resource="http://pbs.gov.au/code/program">GE</code>
+   </program>
+   <program>
+      <code resource="http://pbs.gov.au/code/program">PL</code>
+   </program>
+   <program>
+      <code resource="http://pbs.gov.au/code/program">DB</code>
+   </program>
+   <program>
+      <code resource="http://pbs.gov.au/code/program">R1</code>
+   </program>
+   <program>
+      <code resource="http://pbs.gov.au/code/program">MF</code>
+   </program>
+   <program>
+      <code resource="http://pbs.gov.au/code/program">IN</code>
+   </program>
+   <program>
+      <code resource="http://pbs.gov.au/code/program">IP</code>
+   </program>
+   <program>
+      <code resource="http://pbs.gov.au/code/program">CT</code>
+   </program>
+   <program>
+      <code resource="http://pbs.gov.au/code/program">GH</code>
+   </program>
+   <program>
+      <code resource="http://pbs.gov.au/code/program">CA</code>
+   </program>
+   <program>
+      <code resource="http://pbs.gov.au/code/program">HS</code>
+   </program>
+   <program>
+      <code resource="http://pbs.gov.au/code/program">HB</code>
+   </program>
+   <program>
+      <code resource="http://pbs.gov.au/code/program">IF</code>
+   </program>
+   <program>
+      <code resource="http://pbs.gov.au/code/program">MD</code>
+   </program>
+   <program>
+      <code resource="http://pbs.gov.au/code/program">PQ</code>
+   </program>
+   <program>
+      <code resource="http://pbs.gov.au/code/program">TY</code>
+   </program>
+   <program>
+      <code resource="http://pbs.gov.au/code/program">TZ</code>
+   </program>
+</schedule>

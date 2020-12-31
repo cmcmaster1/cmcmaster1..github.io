@@ -1,0 +1,13 @@
+name: "Biologics"
+title: "Rheumatology PBS"
+description: |
+  Information about PBS prescription of biologics for rheumatological conditions.
+output_dir: "docs"
+navbar:
+  logo:
+    image: images/logo_white.png
+output: 
+  distill::distill_article:
+    toc: true
+    theme: test.css
+    self_contained: false

@@ -1,0 +1,42 @@
+---
+title: "Rheumatology PBS"
+description: |
+  Information about PBS prescription of biologics for rheumatological conditions.
+theme: test.css
+navbar:
+  logo:
+    image: images/logo_white.png
+site: distill::distill_website
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+library(tidyverse)
+library(rmarkdown)
+library(knitr)
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+# Learn more about publishing to GitHub Pages at:
+# https://rstudio.github.io/distill/publish_website.html#github-pages
+
+```
+
+```{r message=FALSE, warning=FALSE, include=FALSE}
+full_data <- read_rds("data/full_data.RDS")
+table_data <- full_data %>% 
+  select(Dx = CONDITION, Phase = PHASE, Drug = LI_DRUG_NAME, Trade = BRAND_NAME, Dose = DOSE, Benefit = BENEFIT_TYPE, Code = PBS_CODE, Qty = MAXIMUM_QUANTITY, Rpts = NUMBER_OF_REPEATS, `Pack size` = PACK_SIZE) %>% 
+  mutate(across(.cols = c(Dx:Benefit, -Dose), .fns = as_factor)) %>% 
+  distinct()
+```
+
+
+```{r, layout="l-page"}
+DT::datatable(table_data, 
+            filter = 'top', 
+            options = list(pageLength = 20))
+```
+
+

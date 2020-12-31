@@ -1,0 +1,44 @@
+PATIENT CONTRIBUTION
+--------------------
+                                       maximum        minimum
+code  contribution type           contribution     safety net
+----  --------------------        ------------   ------------
+C     Concessional                   $    6.60      $    0.00
+G     General                        $   41.00      $    5.50
+
+
+CONTAINER FEES
+--------------
+                                     container
+code  container type                       fee
+----  --------------------        ------------
+I     Injectable                     $    1.55
+O     Other                          $    0.87
+
+
+DISPENSING FEES
+---------------
+                                    dispensing     additional
+code  fee description                      fee            fee
+----  ---------------               ----------     ----------
+
+DD    Dangerous Drug                $     4.80     $     0.00
+EP    Extemp Prepared               $     9.78     $     1.66
+EW    Water added                   $    10.64     $     1.66
+NF    No Fee                        $     0.00     $     0.00
+RP    Ready Prepared                $     7.74     $     1.29
+
+MARKUPS
+-------
+
+code  drug types                                       range                     markup
+----  ------------------------------------------- ----------    ----------   ----------
+A     EP, CT, HB, MD                              $     0.01 to $ 99999.99        0.00 %
+C     GE, PL, DB, R1                              $     0.01 to $    99.99   $    4.28
+C     GE, PL, DB, R1                              $   100.00 to $  2000.00        5.00 %
+C     GE, PL, DB, R1                              $  2000.01 to $ 99999.99   $   99.28
+D     MF, GH, CA, HS, IF                          $     0.01 to $    40.00       10.00 %
+D     MF, GH, CA, HS, IF                          $    40.01 to $   100.00   $    4.00
+D     MF, GH, CA, HS, IF                          $   100.01 to $  1000.00        4.00 %
+D     MF, GH, CA, HS, IF                          $  1000.01 to $ 99999.99   $   40.00
+E     PQ                                          $     0.01 to $ 99999.99        2.75 %

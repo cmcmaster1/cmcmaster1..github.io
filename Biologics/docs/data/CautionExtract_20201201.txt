@@ -1,0 +1,67 @@
+caution-code	caution-text
+6918	There are reports of fatal hepatotoxicity, particularly in children. There is increasing evidence of dose-related teratogenesis from this drug.
+6945	Prochlorperazine may be associated with parkinsonism and tardive dyskinesia and should be used for short-term treatment only.
+7776	Careful monitoring of patients is mandatory.
+8211	The risk of drug dependence is high.
+8286	Use of ACE inhibitors during pregnancy is contraindicated since these drugs have been associated with foetal death in utero.
+8299	The myocardial depressant effects of verapamil hydrochloride and of beta-blocking drugs are additive.
+8357	Treatment with peginterferon alfa has been associated with depression and suicide in some patients. Patients with a history of suicidal ideation or depressive illness should be warned of the risks. Psychiatric status during therapy should be monitored.
+8358	Ribavirin is a category X drug and must not be given to pregnant women. Pregnancy in female patients or in the partners of male patients must be avoided during treatment and during the 6 months period after cessation of treatment.
+9216	Monitor for post-injection syndrome for at least two hours after each injection.
+9409	Teriflunomide is a category X drug and must not be given to pregnant women or women of childbearing potential who are not currently using reliable contraception. Pregnancy should be avoided for two years after cessation of therapy, unless special wash-out procedures are carried out. 
+9950	Selective serotonin (5HT1) agonists are contraindicated in patients with known or suspected coronary artery disease. The drug should not be used within 24 hours of ergotamine or dihydroergotamine use.
+11011	This is a category X drug and must not be given to pregnant women. Pregnancy must be avoided during treatment and for at least 3 months following cessation of therapy.
+13054	In placebo controlled trials in elderly patients with dementia there was a significantly higher incidence of cerebrovascular adverse events, such as stroke (including fatalities) and transient ischaemic attacks, in patients treated with risperidone compared with patients treated with placebo.
+13939	This drug should not be used during pregnancy as it may result in feminisation of the male foetus.
+14151	Visual field defects have been reported with this drug.
+14170	Severe cholestatic hepatitis has been reported with this drug. Significant risk factors are age, particularly greater than 55 years, and duration of treatment longer than 14 days.
+14180	Serum electrolytes should be checked regularly
+14417	Flecainide acetate should be avoided in patients with poor cardiac function.
+14441	There are concerns about the incidence of benign intracranial hypertension associated with this drug.
+14463	This drug is an irreversible monoamine oxidase inhibitor.
+14495	Abuse of clonazepam has been reported. Refer to the current product information.
+14511	This drug causes birth defects. 
+14512	This drug has been reported to cause other frequent and potentially serious toxicity.
+14555	Neutropenia and agranulocytosis are more frequent in the elderly, especially in the early months of therapy.
+14688	Leflunomide is a category X drug and must not be given to pregnant women. Pregnancy should be avoided for two years after cessation of therapy, unless special wash-out procedures are carried out.
+14697	Severe thrombocytopenia has been reported with this drug.
+14764	Desmopressin nasal spray may be associated with an increased risk of hyponatraemia compared to the oral formulations.
+14779	Treatment with interferon alfa has been associated with depression and suicide in some patients. Patients with a history of suicidal ideation or depressive illness should be warned of the risks. Psychiatric status during therapy should be monitored.
+14876	Episodes of sudden onset of sleep without warning, during activity, have been reported with this drug.
+15136	Naltrexone hydrochloride is contraindicated in patients receiving opioid drugs.
+15277	Contraindications to treatment include known sensitivity to botulinum toxin.
+15467	Care should be taken when treating patients with advanced age and significant cognitive impairment with dopamine agonists.
+15534	Thalidomide is a category X drug and must not be given to pregnant women. Pregnancy in female patients or in the partners of male patients must be avoided during treatment and for 1 month after cessation of treatment.
+15898	Progressive multifocal leukoencephalopathy has been reported with this drug.
+16366	Hepatotoxicity has been reported with this drug.
+16637	The myocardial depressant effects of this drug and of beta-blocking drugs are additive.
+16638	Serum electrolytes should be checked regularly.
+16671	Appropriate contraceptive measures should be taken by women of child-bearing age in whom spironolactone therapy has been initiated.
+16673	Prochlorperazine may be associated with parkinsonism and tardive dyskinesia and should be used for short-term treatment only.
+16674	Sulfonylureas may cause hypoglycaemia, particularly in the elderly.
+16723	Serum sickness-like reactions have been reported with this drug, especially in children.
+16737	Nitrofurantoin may cause peripheral neuritis and severe pulmonary reactions.
+16741	Regular blood and urine checks are essential.
+16745	There is an increased risk of severe adverse reactions with this combination in the elderly.
+16840	This drug is a category X drug and must not be given to pregnant women. Pregnancy in female patients or in the partners of male patients must be avoided during treatment and for 1 month after cessation of treatment.
+16865	Because of variable effects of food on absorption of sustained release theophylline preparations, patients stabilised on one brand should not be changed to another without appropriate monitoring.
+18079	Careful monitoring of patients is mandatory due to high risk of developing hyperglycaemia
+18192	 The listed brands have NOT been shown to be bioequivalent and should not be interchanged.
+18775	Severe cholestatic jaundice has been reported with this drug. Significant risk factors are age, particularly greater than 55 years, and duration of treatment longer than 14 days.
+19700	This is a category X drug and must not be given to pregnant women. Pregnancy must be avoided during treatment and for at least 1 month following cessation of therapy, as recommended by the TGA-approved Product Information.
+19967	This drug is a category X drug and must not be given to pregnant women. If lenalidomide is taken during pregnancy, a teratogenic effect of lenalidomide in humans cannot be ruled out.
+20354	Vismodegib is a category X drug and must not be given to pregnant women. Pregnancy in female patients or in the partners of male patients must be avoided during treatment and during the 24 months and 2 months period after cessation of treatment for female and male patients respectively, as according to the TGA approved Product Information.
+20549	Careful monitoring of patients is required due to risk of developing life-threatening Cytokine Release Syndrome, neurological toxicities and reactivation of John Cunningham virus (JC) viral infection.
+20811	Pharmaceutical benefits containing gemcitabine may have different concentrations.
+21279	Sonidegib is a category X drug and must not be given to pregnant women. Pregnancy in female patients or in the partners of male patients must be avoided during treatment and during the 20 months and 6 months period after cessation of treatment for female and male patients respectively, as according to the TGA approved Product Information.
+22202	QT interval monitoring is required for patients treated with this drug.
+22509	Tolvaptan has been associated with idiosyncratic hepatic toxicity. Liver function monitoring is required.
+22963	Do not substitute olaparib 50 mg capsules with olaparib 100 mg or 150 mg tablets on a mg to mg basis due to difference in dosing and bioavailability of each formulation.
+23103	Combination treatment with ipilimumab and nivolumab is associated with an increased incidence and severity of immune-related adverse reactions compared with monotherapy with these agents. Monitoring at least prior to each dose is recommended.
+24036	Careful monitoring of patients is required due to risk of developing hepatotoxicity, including life-threatening hepatic veno-occlusive disease, and the increased risk of post-haematopoietic stem cell transplant non-relapse mortality observed in patients treated with inotuzumab.
+24186	Morphine sulfate pentahydrate 10 and 20 mg modified release capsules must not be co-prescribed with immediate release oral morphine, when it has been prescribed for the reduction of chronic breathlessness.
+25746	Careful monitoring of patients is required due to risk of developing pulmonary adverse events observed in patients within the first seven days of treatment with this drug. Patients must be instructed to report any new or worsening respiratory symptoms.
+26165	Inadvertent muscular injection in patients aged less than 12 years may occur with the pen device.
+26291	This drug is a potent teratogen - pregnancy should be avoided during therapy and for at least three years after cessation of therapy.
+26437	The safety of atezolizumab in combination with bevacizumab has not been established in patients who have incompletely treated varices, variceal bleeding within the previous 6 months or who are at high risk of bleeding. Patients should be assessed for risk of variceal bleeding prior to treatment with this combination.
+26476	This drug is for ex vivo administration and must not to be injected directly into the patient.

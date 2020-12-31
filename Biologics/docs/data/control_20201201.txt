@@ -1,0 +1,5 @@
+Publication/Extract = PBS Standard Extract
+Environment = Production
+Publication/Extract Date = 20201201
+Extraction Date = 20201112
+EXTRACT COMPLETE

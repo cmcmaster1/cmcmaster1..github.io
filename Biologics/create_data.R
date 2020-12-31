@@ -37,27 +37,28 @@ full_data <- biologics_list_expanded %>%
          STREAMLINE = TREATMENT_OF_CODE, LI_HTML_TEXT, CONDITION_TYPE_CODE,
          EFFECTIVE_DATE, LATEST_SCHEDULE_INDICATOR) %>% 
   filter(LATEST_SCHEDULE_INDICATOR == "Y") %>% 
-  mutate(CONDITION = case_when(str_detect(CONDITION_TYPE_CODE, regex("rheumatoid", ignore_case = TRUE)) ~ "Rheumatoid Arthritis",
-                               str_detect(CONDITION_TYPE_CODE, regex("psoriatic", ignore_case = TRUE)) ~ "Psoriatic Arthritis",
-                               str_detect(CONDITION_TYPE_CODE, regex("ankylosing", ignore_case = TRUE)) ~ "Ankylosing Spondylitis",
-                               str_detect(CONDITION_TYPE_CODE, regex("spondylo", ignore_case = TRUE)) ~ "Non-radiographic Axial SpA",
-                               str_detect(CONDITION_TYPE_CODE, regex("arteritis", ignore_case = TRUE)) ~ "Giant Cell Arteritis",
+  mutate(CONDITION = case_when(str_detect(CONDITION_TYPE_CODE, regex("rheumatoid", ignore_case = TRUE)) ~ "RA",
+                               str_detect(CONDITION_TYPE_CODE, regex("psoriatic", ignore_case = TRUE)) ~ "PsA",
+                               str_detect(CONDITION_TYPE_CODE, regex("ankylosing", ignore_case = TRUE)) ~ "AS",
+                               str_detect(CONDITION_TYPE_CODE, regex("spondylo", ignore_case = TRUE)) ~ "nr-axSpA",
+                               str_detect(CONDITION_TYPE_CODE, regex("arteritis", ignore_case = TRUE)) ~ "GCA",
                                str_detect(CONDITION_TYPE_CODE, regex("granulomatosis", ignore_case = TRUE)) ~ "GPA",
                                str_detect(CONDITION_TYPE_CODE, regex("microscopic", ignore_case = TRUE)) ~ "MPA",
                                TRUE ~ CONDITION_TYPE_CODE),
          STREAMLINE = if_else(BENEFIT_TYPE_CODE == "S", STREAMLINE, NULL),
-         BENEFIT_TYPE = case_when(BENEFIT_TYPE_CODE == "U" ~ "unrestricted",
-                                  BENEFIT_TYPE_CODE == "R" ~ "restricted",
-                                  BENEFIT_TYPE_CODE == "A" ~ "authority required",
-                                  BENEFIT_TYPE_CODE == "S" ~ "streamlined"),
-         DOSE = str_extract(LI_FORM, "[:digit:]+ (?=mg)")) %>% 
-  mutate(init = str_locate(LI_HTML_TEXT, regex("initial", ignore_case = TRUE))[,1],
+         BENEFIT_TYPE = case_when(BENEFIT_TYPE_CODE == "U" ~ "Unrestricted",
+                                  BENEFIT_TYPE_CODE == "R" ~ "Restricted",
+                                  BENEFIT_TYPE_CODE == "A" ~ "Authority",
+                                  BENEFIT_TYPE_CODE == "S" ~ "Streamlined"),
+         DOSE = str_extract(LI_FORM, "[:digit:]+ (?=mg)"),
+         LI_DRUG_NAME = str_remove(LI_DRUG_NAME, " pegol"),
+         init = str_locate(LI_HTML_TEXT, regex("initial", ignore_case = TRUE))[,1],
          cont = str_locate(LI_HTML_TEXT, regex("continuing", ignore_case = TRUE))[,1],
          ind = CONDITION %in% c("GPA", "MPA") & str_detect(LI_HTML_TEXT, regex("(?<!-)induction", ignore_case = TRUE)),
          reind = CONDITION %in% c("GPA", "MPA") & str_detect(LI_HTML_TEXT, regex("re-induction", ignore_case = TRUE))) %>% 
   replace_na(list(init = 10000, cont = 10000)) %>% 
   mutate(PHASE = case_when(init < cont ~ "Initial",
-                           ind ~ "Induction",
+                           ind ~ "Initial",
                            reind ~ "Re-induction",
                            TRUE ~ "Continuing")) %>% 
   select(-init, -cont)

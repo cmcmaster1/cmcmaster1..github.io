@@ -29,16 +29,24 @@ library(knitr)
 ```{r message=FALSE, warning=FALSE, include=FALSE}
 full_data <- read_rds("data/full_data.RDS")
 table_data <- full_data %>% 
-  select(Dx = CONDITION, Phase = PHASE, Drug = LI_DRUG_NAME, Trade = BRAND_NAME, Dose = DOSE, Benefit = BENEFIT_TYPE, Code = PBS_CODE, Streamline = STREAMLINE, Qty = MAXIMUM_QUANTITY, Rpts = NUMBER_OF_REPEATS, `Pack size` = PACK_SIZE) %>% 
-  mutate(across(.cols = c(Dx:Benefit, -Dose), .fns = as_factor)) %>% 
+  select(Dx = CONDITION, Phase = PHASE, Drug = LI_DRUG_NAME, Trade = BRAND_NAME, `Dose (mg)` = DOSE, Benefit = BENEFIT_TYPE, Code = PBS_CODE, Streamline = STREAMLINE, Qty = MAXIMUM_QUANTITY, Rpts = NUMBER_OF_REPEATS, `Pack size` = PACK_SIZE) %>% 
+  mutate(across(.cols = c(Dx:Benefit, -`Dose (mg)`), .fns = as_factor)) %>% 
   distinct()
 ```
 
-```{r, layout="l-screen"}
-DT::datatable(table_data, 
-            filter = list(position = 'top', clear = FALSE, plain = TRUE),
-            rownames = FALSE,
-            options = list(pageLength = 20))
+```{r, layout="l-page"}
+DT::datatable(table_data,
+              rownames = FALSE,
+              options = list(
+                pageLength = 30,
+                dom = 'Btip', 
+                buttons = list("searchPanes"),
+                language = list(searchPanes = list(collapse = "Filter Rows")),
+                columnDefs = list(
+                  list(searchPanes = list(show = FALSE), targets = 3:10),
+                  list(searchPanes = list(controls = FALSE), targets = 0:3))),
+              extensions = c("SearchPanes", "Select", "Buttons"),
+              selection = 'none')
 ```
 
 

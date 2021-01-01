@@ -16,14 +16,6 @@ knitr::opts_chunk$set(echo = FALSE)
 library(tidyverse)
 library(rmarkdown)
 library(knitr)
-
-# source("create_data.R")
-# Learn more about creating websites with Distill at:
-# https://rstudio.github.io/distill/website.html
-
-# Learn more about publishing to GitHub Pages at:
-# https://rstudio.github.io/distill/publish_website.html#github-pages
-
 ```
 
 ```{r message=FALSE, warning=FALSE, include=FALSE}

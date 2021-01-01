@@ -1,14 +1,14 @@
 ---
-title: "Rheumatology PBS"
+title: "Rheumatoid Arthritis"
 description: |
-  Information about PBS prescription of biologics for rheumatological conditions.
+  Information related to rheumatoid arthritis and medication.
 theme: test.css
 navbar:
   logo:
     image: images/logo_white.png
 site: distill::distill_website
----
 
+---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
@@ -18,11 +18,13 @@ library(rmarkdown)
 library(knitr)
 ```
 
+
 ```{r message=FALSE, warning=FALSE, include=FALSE}
 full_data <- read_rds("data/full_data.RDS")
 table_data <- full_data %>% 
-  select(Dx = CONDITION, Phase = PHASE, Drug = LI_DRUG_NAME, Trade = BRAND_NAME, `Dose (mg)` = DOSE, Benefit = BENEFIT_TYPE, Code = PBS_CODE, Streamline = STREAMLINE, Qty = MAXIMUM_QUANTITY, Rpts = NUMBER_OF_REPEATS, `Pack size` = PACK_SIZE) %>% 
-  mutate(across(.cols = c(Dx:Benefit, -`Dose (mg)`), .fns = as_factor)) %>% 
+  filter(CONDITION == "RA") %>% 
+  select(Phase = PHASE, Drug = LI_DRUG_NAME, Trade = BRAND_NAME, `Dose (mg)` = DOSE, Benefit = BENEFIT_TYPE, Code = PBS_CODE, Streamline = STREAMLINE, Qty = MAXIMUM_QUANTITY, Rpts = NUMBER_OF_REPEATS, `Pack size` = PACK_SIZE) %>% 
+  mutate(across(.cols = c(Phase:Benefit, -`Dose (mg)`), .fns = as_factor)) %>% 
   distinct()
 ```
 
@@ -35,11 +37,13 @@ DT::datatable(table_data,
                 buttons = list("searchPanes"),
                 language = list(searchPanes = list(collapse = "Filter Rows")),
                 columnDefs = list(
-                  list(searchPanes = list(show = FALSE), targets = 4:10)
+                  list(searchPanes = list(show = FALSE), targets = 4:9)
                   )
                 ),
               extensions = c("SearchPanes", "Select", "Buttons"),
               selection = 'none')
 ```
+
+
 
 

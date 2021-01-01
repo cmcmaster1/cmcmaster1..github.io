@@ -2,6 +2,10 @@ name: "Biologics"
 title: "Rheumatology PBS"
 description: |
   Information about PBS prescription of biologics for rheumatological conditions.
+author:
+  - name: Christopher McMaster 
+    url: https://chrismcmaster.com
+date: "`r Sys.Date()`"
 output_dir: "."
 navbar:
   logo:
@@ -9,6 +13,20 @@ navbar:
   left:
     - text: "Home"
       href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Diseases"
+      menu:
+        - text: "Rheumatoid Arthritis"
+          href: ra.html
+        - text: "Psoriatic Arthritis"
+          href: psa.html
+        - text: "Ankylosing Spondylitis"
+          href: as.html
+        - text: "Non-radiographic Axial SpA"
+          href: nraspa.html
+        - text: "Giant Cell Arteritis"
+          href: gca.html
 output: 
   distill::distill_article:
     toc: true

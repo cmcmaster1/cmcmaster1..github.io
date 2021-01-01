@@ -3,7 +3,7 @@
     "path": "D:/Websites/github/cmcmaster1.github.io/Biologics/_site.yml",
     "project_path": "_site.yml",
     "type": "yaml",
-    "hash": "0",
+    "hash": "1567383527",
     "contents": "",
     "dirty": false,
     "created": 1609383134706.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "8,7",
+        "cursorPosition": "19,25",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1609395234,
+    "lastKnownWriteTime": 1609480383,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1609395234156,
+    "last_content_update": 1609480384005,
     "read_only": false,
     "read_only_alternatives": []
 }

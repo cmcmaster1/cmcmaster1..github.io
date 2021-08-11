@@ -1,8 +1,4 @@
-biologics_list <- tibble(drug = c("tocilizumab", "infliximab", "adalimumab",
-                                  "etanercept", "abatacept", "rituximab",
-                                  "baricitinib", "tofacitinib", "upadacitinib",
-                                  "ustekinumab", "ixekizumab", "secukinumab",
-                                  "golimumab", "certolizumab pegol"))
+library(tidyverse)
 
 pbs_api <- function(table, format = "csv", header = "true", download = "true", ...){
 
@@ -74,4 +70,4 @@ full_data <- biologics_list %>%
   select(-init, -cont)
 
 write_rds(full_data, "Biologics/docs/data/full_data.RDS")
-
+write_csv(full_data, "Biologics/docs/data/full_data.csv")
